@@ -1,0 +1,7 @@
+env/
+docker-compose.yml
+Dockerfile
+MakeFile
+.git/
+README.md
+.idea/

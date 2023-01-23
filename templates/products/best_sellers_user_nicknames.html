@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}
+{% endblock title %}
+
+{% block content %}
+    <h1 class="title">Best Sellers User NickNames: </h1>
+    {% for seller in sellers %}
+        <article class="">
+            {{ seller.nickname }}
+            {{ seller.transactions_completed }}
+        </article>
+    {% endfor %}
+{% endblock content %}
