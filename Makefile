@@ -6,8 +6,10 @@ help:
 	@echo "format - format with flake8"
 	@echo "test - run tests quickly with the default Python"
 	@echo "testall - run tests on every Python version with tox"
-	@echo "coverage - check code coverage quickly with the default Python"
+	@echo "run - runserver with settings in .env file"
 	@echo "run-dev - run in development mode [local]"
+	@echo "run-dev - run in development mode [test]"
+	@echo "run-dev - run in development mode [prod]"
 	@echo "run-docker - run in development mode [docker instance]"
 
 clean:
@@ -23,13 +25,19 @@ lint:
 format:
 	black products realTrendsAssessment tests
 
-test:
+testall:
 	tox
 
-#coverage:
-#	...
+run:
+	 python manage.py runserver --settings=realTrendsAssessment.settings.development
 
 run-dev:
+	 python manage.py runserver --settings=realTrendsAssessment.settings.development
+
+run-test:
+	 python manage.py runserver --settings=realTrendsAssessment.settings.development
+
+run-prod:
 	 python manage.py runserver --settings=realTrendsAssessment.settings.development
 
 run-docker:

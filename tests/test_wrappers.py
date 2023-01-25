@@ -1,13 +1,14 @@
 import pytest
 from _pytest.monkeypatch import MonkeyPatch
 from django.test import SimpleTestCase
-from products.libs.wrappers import MeliWrapper
+from utils.wrappers import MeliWrapper
 from meli.api_client import ApiClient
 from meli.api.rest_client_api import RestClientApi
 from decouple import config
 
 
 @pytest.mark.usefixtures("get_sorted_by_price_data_fixture")
+@pytest.mark.usefixtures("get_result_sorted_by_price_fixture")
 class TestMelliWrapper(SimpleTestCase):
     def setUp(self) -> None:
         self.search_url = "/sites/MLA/search?{}"
@@ -32,7 +33,7 @@ class TestMelliWrapper(SimpleTestCase):
         """Override the database teardown defined in parent class"""
         pass
 
-    def test_wrapper_response(self) -> None:
+    def test_get_result_sorted_by_price(self) -> None:
         meli_wrapper = MeliWrapper(
             self.rest_client_api, self.query_string, self.access_token, self.search_url
         )
@@ -42,5 +43,5 @@ class TestMelliWrapper(SimpleTestCase):
 
         response = meli_wrapper.get_result_sorted_by_price()
 
-        mock_data = self.get_sorted_by_price_data()
+        mock_data = self.get_result_sorted_by_price()
         self.assertEqual(mock_data, response)

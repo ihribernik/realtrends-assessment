@@ -5,10 +5,12 @@
 
 {% block content %}
     {% for product in products %}
-        <img src="{{ product.thumbnail }}" />
-        <div>{{ product.id }}</div>
-        <div>{{ product.title }}</div>
-        <div>{{ product.price | escape}}</div>
+        <div class="container">
+            <img src="{{ product.thumbnail }}" />
+            <div>{{ product.id }}</div>
+            <div>{{ product.title }}</div>
+            <div>{{ product.price | escape}}</div>
+        </div>
     {% endfor %}
 
 {% endblock content %}

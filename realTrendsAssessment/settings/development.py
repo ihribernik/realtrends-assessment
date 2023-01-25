@@ -3,4 +3,4 @@
 
 from realTrendsAssessment.settings.base import *  # NOQA
 
-DEBUG = True
+DEBUG = False

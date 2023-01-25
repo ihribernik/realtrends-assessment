@@ -1,16 +1,13 @@
-# -*- coding: utf-8 -*-
-""" """
 from decouple import config
-from django.shortcuts import render
 from django.views.generic import TemplateView
 from meli import ApiClient
 from meli.api.rest_client_api import RestClientApi
 
-from products.libs.wrappers import MeliWrapper
+from utils.wrappers import MeliWrapper
 
 
 class HomeView(TemplateView):
-    template_name = "products/home.html"
+    template_name = "products/index.html"
 
 
 class MostExpensiveProducts(TemplateView):
@@ -33,7 +30,6 @@ class MostExpensiveProducts(TemplateView):
                 "sort": "price_desc",
                 "attributes": "id,permalink,pictures.url",
                 "limit": 5,
-                "offset": 0,
             }
             search_url = "/sites/MLA/search?{}"
 
@@ -65,7 +61,6 @@ class BestSellersUserNickNames(TemplateView):
                 "category": "MLA352679",
                 "sort": "sold_quantity_asc",
                 "limit": 5,
-                "offset": 0,
             }
             search_url = "/sites/MLA/search?{}"
 
@@ -76,15 +71,3 @@ class BestSellersUserNickNames(TemplateView):
 
             context["sellers"] = response
             return context
-
-
-def handler404(request, *args, **argv):
-    response = render("404.html", {})
-    response.status_code = 404
-    return response
-
-
-def handler500(request, *args, **argv):
-    response = render("500.html", {})
-    response.status_code = 500
-    return response
