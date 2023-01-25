@@ -18,10 +18,10 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 from products.views import (
-    HomeView,
     BestSellersUserNickNames,
     MostExpensiveProducts,
 )
+from realTrendsAssessment.views import HomeView
 
 urlpatterns = [
     path("", HomeView.as_view(), name="home"),

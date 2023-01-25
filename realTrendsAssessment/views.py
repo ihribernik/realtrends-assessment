@@ -1,6 +1,10 @@
 from django.views.generic import TemplateView, GenericViewError
 
 
+class HomeView(TemplateView):
+    template_name = "realTrendsAssessment/index.html"
+
+
 class ForbiddenHandler(TemplateView):
     error_code = 403
     template_name = "403.html"

@@ -6,10 +6,6 @@ from meli.api.rest_client_api import RestClientApi
 from utils.wrappers import MeliWrapper
 
 
-class HomeView(TemplateView):
-    template_name = "products/index.html"
-
-
 class MostExpensiveProducts(TemplateView):
     """
     Una página que muestre el listado con los apodos de
@@ -28,8 +24,7 @@ class MostExpensiveProducts(TemplateView):
             query_string = {
                 "category": "MLA352679",
                 "sort": "price_desc",
-                "attributes": "id,permalink,pictures.url",
-                "limit": 5,
+                "limit": 21,
             }
             search_url = "/sites/MLA/search?{}"
 
@@ -60,7 +55,7 @@ class BestSellersUserNickNames(TemplateView):
             query_string = {
                 "category": "MLA352679",
                 "sort": "sold_quantity_asc",
-                "limit": 5,
+                "limit": 6,
             }
             search_url = "/sites/MLA/search?{}"
 
