@@ -10,15 +10,15 @@ from utils.constants import MELI_BASE_URL
 class MeliWrapper:
     def __init__(
         self,
-        rest_client_api: RestClientApi,
+        rest_client_api: RestClientApi = None,
         query_string: Dict = None,
-        access_token: str = '',
-        search_url: str = '',
+        access_token: str = "",
+        search_url: str = "",
         auth_api: OAuth20Api = None,
-        grant_type: str = '',
-        client_id: str = '',
-        client_secret: str = '',
-        redirect_uri: str = '',
+        grant_type: str = "",
+        client_id: str = "",
+        client_secret: str = "",
+        redirect_uri: str = "",
     ) -> None:
         self.rest_client_api = rest_client_api
         self.query_string = query_string
@@ -41,7 +41,7 @@ class MeliWrapper:
             client_id=self.client_id,
             client_secret=self.client_secret,
             redirect_uri=self.redirect_uri,
-            code=code
+            code=code,
         )
         return response
 

@@ -1,5 +1,6 @@
 from django.test import SimpleTestCase
 from django.test.client import RequestFactory
+from http import HTTPStatus
 
 
 class TestErrorUrlsView(SimpleTestCase):
@@ -18,5 +19,5 @@ class TestErrorUrlsView(SimpleTestCase):
 
     def test_404(self):
         response = self.client.get("/superPrueba")
-        self.assertEqual(response.status_code, 404)
+        self.assertEqual(response.status_code, HTTPStatus.NOT_FOUND)
         self.assertTemplateUsed(response, "404.html")

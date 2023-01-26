@@ -28,7 +28,7 @@ class MostExpensiveProducts(TemplateView):
         context = super().get_context_data(**kwargs)
 
         with ApiClient() as api_client:
-            access_token = config("TOKEN")
+            access_token = config("APP_SECRET")
             rest_client_api = RestClientApi(api_client)
             query_string = {
                 "category": SEARCH_CATEGORY,
@@ -58,7 +58,7 @@ class BestSellersUserNickNames(TemplateView):
         context = super().get_context_data(**kwargs)
 
         with ApiClient() as api_client:
-            access_token = config("TOKEN")
+            access_token = config("APP_SECRET")
             rest_client_api = RestClientApi(api_client)
             query_string = {
                 "category": SEARCH_CATEGORY,

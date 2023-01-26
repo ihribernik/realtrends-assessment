@@ -5,7 +5,6 @@ from django.urls import reverse
 class TestHomeView(SimpleTestCase):
     def setUp(self) -> None:
         self.home_url = reverse("home")
-        # self.best_sellers_url = reverse("top-best-sellers")
         self.template = "realTrendsAssessment/index.html"
 
     def setup_databases(self, **kwargs):
