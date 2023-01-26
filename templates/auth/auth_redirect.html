@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block extra_scripts %}
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const inputs = document.querySelectorAll("input")
+        inputs
+          .each(() => {
+            localStorage.setItem($(this).attr("name"), $(this).val());
+          });
+        const expire_date =
+          new Date().getTime() / 1000 +
+          parseInt(localStorage.getItem("expires_in"));
+        localStorage.setItem("expire_date", expire_date.toString());
+        fetch("http://api.mercadolibre.com/users/me", {
+          headers: {
+            Authorization: `Bearer ${localStorage.getItem("access_token")}`,
+            'Content-Type': 'application/json'
+          },
+        }).then(data => {
+          const {first_name, last_name} = data
+          localStorage.setItem("name", `${first_name} ${last_name}`);
+          window.location.replace(
+            window.location.origin + "/"
+          );
+        })
+      })
+    </script>
+{% endblock extra_scripts %}
+
+{% block content %}
+    <body>
+    {% for key, value in response.items %}
+        <input type="hidden" value="{{ value }}" name="{{ key }}"/>
+    {% endfor %}
+    </body>
+{% endblock content %}

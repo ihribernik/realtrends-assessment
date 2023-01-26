@@ -38,6 +38,6 @@ def oauth_redirect(request):
 
         user_data = meli_wrapper.get_token(code)
 
-        return render(request, 'auth/oauth_redirect.html', {
+        return render(request, 'auth/auth_redirect.html', {
             'response': user_data
         })

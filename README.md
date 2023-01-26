@@ -32,3 +32,6 @@ make test
 ```shell
 make see-coverage
 ```
+
+pd: en el .env.example estan las app_id y el app_secret que use para el chalenge.
+la parte de auth la arme a medias, hace el redirect al login de mercado libre pero cuando vuelve esta fallando.
