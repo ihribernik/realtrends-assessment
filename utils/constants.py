@@ -6,5 +6,6 @@ SORT_BY_SOLD_QUANTITY_ASC = "sold_quantity_asc"
 LIMIT_PRICE_DESC = 21
 LIMIT_SOLD_QUANTITY = 6
 SEARCH_URL = "/sites/MLA/search?{}"
-MELI_BASE_URL = "https://auth.mercadolibre.com.ar/authorization?response_type=code&client_id={}&redirect_uri={}"
-REDIRECT_LOCAL_URL = "http://localhost:8000/accounts/oauth/redirect/"
+MELI_BASE_URL = "http://auth.mercadolibre.com.ar/authorization?response_type=code&client_id={}&redirect_uri={}"
+REDIRECT_LOCAL_URL = "http://localhost:8000/auth/redirect"
+REDIRECT_LOCAL_URL = "http://localhost:8000/auth/redirect"

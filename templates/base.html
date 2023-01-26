@@ -2,85 +2,39 @@
 
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{% block title %}{% endblock title %}</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+    />
     {% block extra_styles %}{% endblock extra_styles %}
-</head>
-<body>
-<header>
-    <nav class="navbar" role="navigation" aria-label="main navigation">
-        <div class="navbar-brand">
-            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false"
-               data-target="navbarBasicExample">
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-                <span aria-hidden="true"></span>
-            </a>
-        </div>
-
-        <div id="navbarBasicExample" class="navbar-menu">
-            <div class="navbar-start">
-                {% with request.resolver_match.url_name as url_name %}
-
-                    <a class="navbar-item {% if url_name == 'home' %}is-active{% endif %}" href="{% url 'home' %}">
-                        Home
-                    </a>
-
-                    <a class="navbar-item {% if url_name == 'top-best-sellers' %}is-active{% endif %} "
-                       href="{% url 'top-best-sellers' %}">
-                        top-best-sellers
-
-                    </a>
-
-                    <a class="navbar-item {% if url_name == 'most-expensive-products' %}is-active{% endif %}"
-                       href="{% url 'most-expensive-products' %}">
-                        most-expensive-products
-                    </a>
-                {% endwith %}
-            </div>
-
-            <div class="navbar-end">
-                <div class="navbar-item">
-                    <div class="buttons">
-                        <a class="button is-primary">
-                            <strong>Sign up</strong>
-                        </a>
-                        <a class="button is-light">
-                            Log in
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </nav>
-</header>
-<main>
-    {% block content %}{% endblock content %}
-</main>
-<footer class="footer">
-    <div class="content has-text-centered">
-        <p>
-            Creado con django con &hearts;
-        </p>
-    </div>
-</footer>
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-    $navbarBurgers.forEach(el => {
-      el.addEventListener('click', () => {
-        // Get the target from the "data-target" attribute
-        const target = el.dataset.target;
-        const $target = document.getElementById(target);
-        el.classList.toggle('is-active');
-        $target.classList.toggle('is-active');
+  </head>
+  <body>
+    {% include 'components/header.html' %}
+    <main>
+        {% block content %}{% endblock content %}
+    </main>
+    {% include 'components/footer.html' %}
+    <script>
+      document.addEventListener("DOMContentLoaded", () => {
+        const $navbarBurgers = Array.prototype.slice.call(
+          document.querySelectorAll(".navbar-burger"),
+          0
+        );
+        $navbarBurgers.forEach((el) => {
+          el.addEventListener("click", () => {
+            // Get the target from the "data-target" attribute
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+            el.classList.toggle("is-active");
+            $target.classList.toggle("is-active");
+          });
+        });
       });
-    });
-  });
-</script>
-</body>
+    </script>
+  </body>
 </html>

@@ -13,24 +13,12 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
-from django.urls import path
-from django.conf import settings
-from django.conf.urls.static import static
+from django.urls import path, include
 
-from products.views import (
-    BestSellersUserNickNames,
-    MostExpensiveProducts,
-)
 from realTrendsAssessment.views import HomeView
 
 urlpatterns = [
     path("", HomeView.as_view(), name="home"),
-    path(
-        "top-best-sellers", BestSellersUserNickNames.as_view(), name="top-best-sellers"
-    ),
-    path(
-        "most-expensive-products",
-        MostExpensiveProducts.as_view(),
-        name="most-expensive-products",
-    ),
-] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+    path('products/', include('products.urls')),
+    path('auth/', include('auth.urls'))
+]

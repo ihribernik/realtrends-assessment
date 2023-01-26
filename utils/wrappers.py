@@ -35,7 +35,6 @@ class MeliWrapper:
         return redirect(url)
 
     def get_token(self, code) -> object:
-
         response = self.auth_api.get_token(
             grant_type=self.grant_type,
             client_id=self.client_id,

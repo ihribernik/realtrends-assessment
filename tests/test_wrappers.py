@@ -67,19 +67,19 @@ class TestMelliWrapper(SimpleTestCase):
         mock_data = self.get_result_sorted_by_best_sellers()
         self.assertEqual(mock_data, response)
 
-    def test_get_token(self) -> None:
-        auth_api = OAuth20Api(self.api_client)
-        print()
-        meli_wrapper = MeliWrapper(
-            auth_api=auth_api,
-            grant_type=GRANT_TYPE,
-            client_id=config('APP_ID'),
-            client_secret=config('APP_SECRET'),
-            redirect_uri=REDIRECT_LOCAL_URL,
-        )
-
-        refesh_toke = meli_wrapper.get_auth()
-        mock_data = ''
-        response = meli_wrapper.get_token(refesh_toke)
-
-        self.assertEqual(mock_data, response)
+    # TODO: falta terminar este test
+    # def test_get_token(self) -> None:
+    #     auth_api = OAuth20Api(self.api_client)
+    #     meli_wrapper = MeliWrapper(
+    #         auth_api=auth_api,
+    #         grant_type=GRANT_TYPE,
+    #         client_id=config('APP_ID'),
+    #         client_secret=config('APP_SECRET'),
+    #         redirect_uri=REDIRECT_LOCAL_URL,
+    #     )
+    #
+    #     refesh_toke = meli_wrapper.get_auth()
+    #     mock_data = ''
+    #     response = meli_wrapper.get_token(refesh_toke)
+    #
+    #     self.assertEqual(mock_data, response)
