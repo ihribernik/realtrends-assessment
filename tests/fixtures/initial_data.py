@@ -20,6 +20,10 @@ def get_result_sorted_by_price(self):
     return get_file_data("result_sorted_by_price_data.json")
 
 
+def get_result_sorted_by_best_sellers(self):
+    return get_file_data("result_sorted_by_best_sellers.json")
+
+
 @fixture
 def get_sorted_by_price_data_fixture(request):
     request.cls.get_sorted_by_price_data = get_sorted_by_price_data
@@ -28,6 +32,11 @@ def get_sorted_by_price_data_fixture(request):
 @fixture
 def get_sorted_by_best_sellers_fixture(request):
     request.cls.get_sellers_data = get_best_sellers_data
+
+
+@fixture
+def get_result_sorted_by_best_sellers_fixture(request):
+    request.cls.get_result_sorted_by_best_sellers = get_result_sorted_by_best_sellers
 
 
 @fixture

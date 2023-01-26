@@ -1,0 +1,6060 @@
+{
+  "site_id": "MLA",
+  "country_default_time_zone": "GMT-03:00",
+  "paging": {
+    "total": 9407,
+    "primary_results": 1000,
+    "offset": 0,
+    "limit": 6
+  },
+  "results": [
+    {
+      "id": "MLA1170934476",
+      "title": "Reloj Inteligente Deportivo Smartwatch Bluetooth",
+      "condition": "new",
+      "thumbnail_id": "846919-MLA52315618939_112022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_special",
+      "permalink": "https://articulo.mercadolibre.com.ar/MLA-1170934476-reloj-inteligente-deportivo-smartwatch-bluetooth-_JM",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_846919-MLA52315618939_112022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 3840.5,
+      "original_price": 5499,
+      "sale_price": null,
+      "sold_quantity": 250,
+      "available_quantity": 50,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "lightning_deal",
+        "immediate_payment",
+        "cart_eligible",
+        "shipping_guaranteed"
+      ],
+      "variation_filters": [
+        "WRISTBAND_COLOR"
+      ],
+      "shipping": {
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": false,
+        "tags": [
+          "fulfillment",
+          "self_service_out"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-09-14T04:00:00.000Z",
+      "seller": {
+        "id": 296728610,
+        "nickname": "RGC STORE",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2018-01-17T17:41:52.000-04:00",
+        "tags": [
+          "normal",
+          "mshops",
+          "eshop",
+          "credits_profile",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/SUONO+ARGENTINA",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 12205,
+            "completed": 135220,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.02,
+              "positive": 0.95
+            },
+            "total": 147425
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 33037
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0087,
+              "value": 315
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0042,
+              "value": 139
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0051,
+              "value": 185
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 336870,
+          "seller": 296728610,
+          "nick_name": "RGC STORE",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/296728610va250f6.png"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkFMTTMwNTBa",
+          "name": "Almagro"
+        }
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkFMTTMwNTBa",
+        "city_name": "Almagro"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "8900905",
+          "value_name": "Suono",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "8900905",
+              "name": "Suono",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "L\u00ednea",
+          "value_id": null,
+          "value_name": "Deportivo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Deportivo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": null,
+          "value_name": "SUO78-CH10-BK",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "SUO78-CH10-BK",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "string"
+        }
+      ],
+      "variations_data": {
+        "175281502595": {
+          "thumbnail": "http://http2.mlstatic.com/D_687906-MLA52315618942_112022-O.jpg",
+          "ratio": "0.74",
+          "name": "",
+          "pictures_qty": 10,
+          "inventory_id": "UXJG38941"
+        },
+        "175281502596": {
+          "thumbnail": "http://http2.mlstatic.com/D_846919-MLA52315618939_112022-O.jpg",
+          "ratio": "0.76",
+          "name": "",
+          "pictures_qty": 10,
+          "inventory_id": "RHVP39128"
+        }
+      },
+      "installments": {
+        "quantity": 6,
+        "amount": 949.56,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1179969521",
+      "title": "Smartwatch Kieslect K10 1.32  Caja 45.7mm De  Metal  Negra, Malla  Negra De  Silicona",
+      "condition": "new",
+      "thumbnail_id": "917284-MLA51232550485_082022",
+      "catalog_product_id": "MLA19553793",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/smartwatch-kieslect-k10-132-caja-457mm-de-metal-negra-malla-negra-de-silicona/p/MLA19553793",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_917284-MLA51232550485_082022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 15199.05,
+      "original_price": 15999,
+      "sale_price": null,
+      "sold_quantity": 5,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate"
+      ],
+      "shipping": {
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-09-23T04:00:00.000Z",
+      "seller": {
+        "id": 227681028,
+        "nickname": "FOTOPOINTONLINE",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2016-09-07T11:32:46.000-04:00",
+        "tags": [
+          "normal",
+          "credits_profile",
+          "eshop",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/FOTOPOINTONLINE",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 389,
+            "completed": 4346,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "total": 4735
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 1094
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0076,
+              "value": 9
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0135,
+              "value": 15
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0068,
+              "value": 8
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 227763,
+          "seller": 227681028,
+          "nick_name": "FOTOPOINTONLINE",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/logo-227681028-1666299916991.jpeg"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "C\u00f3rdoba"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGNiZGQx",
+          "name": "C\u00f3rdoba"
+        }
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "C\u00f3rdoba",
+        "city_id": "TUxBQ0NBUGNiZGQx",
+        "city_name": "C\u00f3rdoba"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "11719082",
+          "value_name": "Kieslect",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "11719082",
+              "name": "Kieslect",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "L\u00ednea",
+          "value_id": null,
+          "value_name": "Kieslect",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Kieslect",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "42816",
+          "value_name": "K10",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "42816",
+              "name": "K10",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "8084330",
+          "value_name": "54 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 54,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "8084330",
+              "name": "54 g",
+              "struct": {
+                "number": 54,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 3757.97,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": null
+    },
+    {
+      "id": "MLA934672405",
+      "title": "Xiaomi Mi Smart Band 6 1.56  Caja De  Pl\u00e1stico Pc  Black, Malla  Black De  Tpu Y Aleaci\u00f3n De Aluminio Xmsh15hm",
+      "condition": "new",
+      "thumbnail_id": "917772-MLA46164931649_052021",
+      "catalog_product_id": "MLA17796174",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/xiaomi-mi-smart-band-6-156-caja-de-plastico-pc-black-malla-black-de-tpu-y-aleacion-de-aluminio-xmsh15hm/p/MLA17796174",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_917772-MLA46164931649_052021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 16499,
+      "original_price": null,
+      "sale_price": null,
+      "sold_quantity": 500,
+      "available_quantity": 100,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate"
+      ],
+      "shipping": {
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2041-08-12T04:00:00.000Z",
+      "seller": {
+        "id": 23742253,
+        "nickname": "MUNDOFIX",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2010-02-11T17:50:46.000-04:00",
+        "tags": [
+          "normal",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/SHIPIN.AR",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 3872,
+            "completed": 62616,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.02,
+              "neutral": 0.02,
+              "positive": 0.96
+            },
+            "total": 66488
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 5827
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.01,
+              "value": 62
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0186,
+              "value": 107
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0022,
+              "value": 14
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 198621,
+          "seller": 23742253,
+          "nick_name": "MUNDOFIX",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/23742253vbcbc4f.png"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "C\u00f3rdoba"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGNiZGQx",
+          "name": "C\u00f3rdoba"
+        }
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "C\u00f3rdoba",
+        "city_id": "TUxBQ0NBUGNiZGQx",
+        "city_name": "C\u00f3rdoba"
+      },
+      "attributes": [
+        {
+          "id": "ALPHANUMERIC_MODEL",
+          "name": "Modelo alfanum\u00e9rico",
+          "value_id": "10455096",
+          "value_name": "XMSH15HM",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10455096",
+              "name": "XMSH15HM",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "59387",
+          "value_name": "Xiaomi",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "59387",
+              "name": "Xiaomi",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "L\u00ednea",
+          "value_id": null,
+          "value_name": "Mi Band",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Mi Band",
+              "struct": null,
+              "source": 6536000100455122
+            }
+          ],
+          "source": 6536000100455122,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "10202169",
+          "value_name": "Mi Smart Band 6",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10202169",
+              "name": "Mi Smart Band 6",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "11326992",
+          "value_name": "12.8 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 12.8,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "11326992",
+              "name": "12.8 g",
+              "struct": {
+                "unit": "g",
+                "number": 12.8
+              },
+              "source": 4709228965570453
+            }
+          ],
+          "source": 4709228965570453,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 4079.38,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1169611569",
+      "title": "Xiaomi Mi Smart Band 7 1.62  Caja  Negra, Malla  Negra",
+      "condition": "new",
+      "thumbnail_id": "772017-MLA50416734366_062022",
+      "catalog_product_id": "MLA19174175",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/xiaomi-mi-smart-band-7-162-caja-negra-malla-negra/p/MLA19174175",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_772017-MLA50416734366_062022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 4,
+      "price": 19529.07,
+      "original_price": 20999,
+      "sale_price": null,
+      "sold_quantity": 250,
+      "available_quantity": 50,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "extended_warranty_eligible",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate",
+        "shipping_guaranteed"
+      ],
+      "shipping": {
+        "logistic_type": "fulfillment",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "fulfillment",
+          "self_service_out",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-09-11T04:00:00.000Z",
+      "seller": {
+        "id": 23742253,
+        "nickname": "MUNDOFIX",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2010-02-11T17:50:46.000-04:00",
+        "tags": [
+          "normal",
+          "credits_profile",
+          "eshop",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/SHIPIN.AR",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 3872,
+            "completed": 62616,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.02,
+              "neutral": 0.02,
+              "positive": 0.96
+            },
+            "total": 66488
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 5827
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.01,
+              "value": 62
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0186,
+              "value": 107
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.0022,
+              "value": 14
+            }
+          }
+        },
+        "eshop": {
+          "eshop_id": 198621,
+          "seller": 23742253,
+          "nick_name": "MUNDOFIX",
+          "eshop_status_id": 1,
+          "site_id": "MLA",
+          "eshop_experience": 0,
+          "eshop_rubro": null,
+          "eshop_locations": [],
+          "eshop_logo_url": "http://http2.mlstatic.com/eshops-logo/23742253vbcbc4f.png"
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-X",
+          "name": "C\u00f3rdoba"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGNiZGQx",
+          "name": "C\u00f3rdoba"
+        }
+      },
+      "address": {
+        "state_id": "AR-X",
+        "state_name": "C\u00f3rdoba",
+        "city_id": "TUxBQ0NBUGNiZGQx",
+        "city_name": "C\u00f3rdoba"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "59387",
+          "value_name": "Xiaomi",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "59387",
+              "name": "Xiaomi",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 2860837171021627
+            }
+          ],
+          "source": 2860837171021627,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "L\u00ednea",
+          "value_id": null,
+          "value_name": "Mi Band",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": null,
+              "name": "Mi Band",
+              "struct": null,
+              "source": 6536000100455122
+            }
+          ],
+          "source": 6536000100455122,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "12363719",
+          "value_name": "Mi Smart Band 7",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "12363719",
+              "name": "Mi Smart Band 7",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "PACKAGE_LENGTH",
+          "name": "Largo del paquete",
+          "value_id": null,
+          "value_name": "7.6 cm",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 7.6,
+            "unit": "cm"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "7.6 cm",
+              "struct": {
+                "unit": "cm",
+                "number": 7.6
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "source": 4333789534002961,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "PACKAGE_WEIGHT",
+          "name": "Peso del paquete",
+          "value_id": null,
+          "value_name": "120 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 120,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "120 g",
+              "struct": {
+                "number": 120,
+                "unit": "g"
+              },
+              "source": 4333789534002961
+            }
+          ],
+          "source": 4333789534002961,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "WEIGHT",
+          "name": "Peso",
+          "value_id": "11401993",
+          "value_name": "13.5 g",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 13.5,
+            "unit": "g"
+          },
+          "values": [
+            {
+              "id": "11401993",
+              "name": "13.5 g",
+              "struct": {
+                "number": 13.5,
+                "unit": "g"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 4828.56,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": "RNSR39057"
+    },
+    {
+      "id": "MLA1295582223",
+      "title": "Smartwatch Imilab W12 1.32  Caja 46mm De  Aleaci\u00f3n De Zinc  Black, Malla  Black De  Silicona",
+      "condition": "new",
+      "thumbnail_id": "803493-MLA47920220518_102021",
+      "catalog_product_id": "MLA18533917",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/smartwatch-imilab-w12-132-caja-46mm-de-aleacion-de-zinc-black-malla-black-de-silicona/p/MLA18533917",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_803493-MLA47920220518_102021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 5,
+      "price": 18995,
+      "original_price": null,
+      "sale_price": null,
+      "sold_quantity": 50,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate",
+        "shipping_guaranteed"
+      ],
+      "shipping": {
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "self_service_in",
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-12-25T04:00:00.000Z",
+      "seller": {
+        "id": 255344164,
+        "nickname": "GOUFITARGENTINA",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2017-05-05T20:09:18.000-04:00",
+        "tags": [
+          "normal",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/GOUFITARGENTINA",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 2420,
+            "completed": 28190,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.03,
+              "neutral": 0.03,
+              "positive": 0.94
+            },
+            "total": 30610
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 2535
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.01,
+              "value": 28
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0129,
+              "value": 33
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0.005,
+              "value": 14
+            }
+          }
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk7a0TcwOTRa",
+          "name": "N\u00fa\u00f1ez"
+        }
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk7a0TcwOTRa",
+        "city_name": "N\u00fa\u00f1ez"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "10972880",
+          "value_name": "Imilab",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "10972880",
+              "name": "Imilab",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 6808261514773724
+            }
+          ],
+          "source": 6808261514773724,
+          "value_type": "list"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "46391",
+          "value_name": "W12",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "46391",
+              "name": "W12",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "WRISTBAND_LENGTH",
+          "name": "Longitud de la malla",
+          "value_id": "11390193",
+          "value_name": "214 mm",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": {
+            "number": 214,
+            "unit": "mm"
+          },
+          "values": [
+            {
+              "id": "11390193",
+              "name": "214 mm",
+              "struct": {
+                "number": 214,
+                "unit": "mm"
+              },
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "number_unit"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 4696.51,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1272958056",
+      "title": "Smartwatch Dt No.1 Dt100 1.75  Caja 44mm  Rose Gold, Malla  Rose Gold",
+      "condition": "new",
+      "thumbnail_id": "699277-MLA48592184582_122021",
+      "catalog_product_id": "MLA18628979",
+      "listing_type_id": "gold_special",
+      "permalink": "https://www.mercadolibre.com.ar/smartwatch-dt-no1-dt100-175-caja-44mm-rose-gold-malla-rose-gold/p/MLA18628979",
+      "buying_mode": "buy_it_now",
+      "site_id": "MLA",
+      "category_id": "MLA352679",
+      "domain_id": "MLA-SMARTWATCHES",
+      "thumbnail": "http://http2.mlstatic.com/D_699277-MLA48592184582_122021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 6,
+      "price": 12450,
+      "original_price": null,
+      "sale_price": null,
+      "sold_quantity": 100,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": true,
+      "tags": [
+        "extended_warranty_eligible",
+        "good_quality_picture",
+        "good_quality_thumbnail",
+        "standard_price_by_channel",
+        "immediate_payment",
+        "cart_eligible",
+        "best_seller_candidate"
+      ],
+      "shipping": {
+        "logistic_type": "cross_docking",
+        "mode": "me2",
+        "store_pick_up": false,
+        "free_shipping": true,
+        "tags": [
+          "mandatory_free_shipping"
+        ],
+        "promise": null
+      },
+      "stop_time": "2042-11-30T04:00:00.000Z",
+      "seller": {
+        "id": 200580896,
+        "nickname": "AQUAPLAY-UPRINT ARGENTINA",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "registration_date": "2015-12-09T23:30:02.000-04:00",
+        "tags": [
+          "normal",
+          "credits_active_borrower",
+          "credits_profile",
+          "mshops",
+          "messages_as_seller"
+        ],
+        "car_dealer_logo": "",
+        "permalink": "http://perfil.mercadolibre.com.ar/AQUAPLAY-UPRINT+ARGENTINA",
+        "seller_reputation": {
+          "level_id": "5_green",
+          "power_seller_status": "platinum",
+          "transactions": {
+            "canceled": 1376,
+            "completed": 13461,
+            "period": "historic",
+            "ratings": {
+              "negative": 0.11,
+              "neutral": 0.05,
+              "positive": 0.84
+            },
+            "total": 14837
+          },
+          "metrics": {
+            "sales": {
+              "period": "60 days",
+              "completed": 2060
+            },
+            "claims": {
+              "period": "60 days",
+              "rate": 0.0185,
+              "value": 43
+            },
+            "delayed_handling_time": {
+              "period": "60 days",
+              "rate": 0.0134,
+              "value": 29
+            },
+            "cancellations": {
+              "period": "60 days",
+              "rate": 0,
+              "value": 0
+            }
+          }
+        }
+      },
+      "seller_address": {
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "id": null,
+        "latitude": null,
+        "longitude": null,
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk7a0TcwOTRa",
+          "name": "N\u00fa\u00f1ez"
+        }
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk7a0TcwOTRa",
+        "city_name": "N\u00fa\u00f1ez"
+      },
+      "attributes": [
+        {
+          "id": "BRAND",
+          "name": "Marca",
+          "value_id": "8769001",
+          "value_name": "DT NO.1",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "8769001",
+              "name": "DT NO.1",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condici\u00f3n del \u00edtem",
+          "value_id": "2230284",
+          "value_name": "Nuevo",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230284",
+              "name": "Nuevo",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "value_type": "list"
+        },
+        {
+          "id": "LINE",
+          "name": "L\u00ednea",
+          "value_id": "13691671",
+          "value_name": "PLUS",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "13691671",
+              "name": "PLUS",
+              "struct": null,
+              "source": 3045741222775799
+            }
+          ],
+          "source": 3045741222775799,
+          "value_type": "string"
+        },
+        {
+          "id": "MODEL",
+          "name": "Modelo",
+          "value_id": "3086202",
+          "value_name": "DT100",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "3086202",
+              "name": "DT100",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "string"
+        }
+      ],
+      "installments": {
+        "quantity": 6,
+        "amount": 3078.26,
+        "rate": 48.35,
+        "currency_id": "ARS"
+      },
+      "winner_item_id": null,
+      "catalog_listing": true,
+      "discounts": null,
+      "promotions": null,
+      "inventory_id": null
+    }
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "M\u00e1s relevantes"
+  },
+  "available_sorts": [
+    {
+      "id": "price_asc",
+      "name": "Menor precio"
+    },
+    {
+      "id": "price_desc",
+      "name": "Mayor precio"
+    }
+  ],
+  "filters": [
+    {
+      "id": "category",
+      "name": "Categor\u00edas",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA352679",
+          "name": "Smartwatches",
+          "path_from_root": [
+            {
+              "id": "MLA1051",
+              "name": "Celulares y Tel\u00e9fonos"
+            },
+            {
+              "id": "MLA417704",
+              "name": "Smartwatches y Accesorios"
+            },
+            {
+              "id": "MLA352679",
+              "name": "Smartwatches"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "available_filters": [
+    {
+      "id": "official_store",
+      "name": "Tiendas oficiales",
+      "type": "text",
+      "values": [
+        {
+          "id": "all",
+          "name": "Todas las tiendas oficiales",
+          "results": 476
+        },
+        {
+          "id": "1218",
+          "name": "Garmin Argentina",
+          "results": 158
+        },
+        {
+          "id": "945",
+          "name": "Gadnic",
+          "results": 20
+        },
+        {
+          "id": "1938",
+          "name": "Mercado Libre Electronica",
+          "results": 4
+        },
+        {
+          "id": "2549",
+          "name": "Apple",
+          "results": 95
+        },
+        {
+          "id": "2619",
+          "name": "Haylou",
+          "results": 9
+        },
+        {
+          "id": "1550",
+          "name": "Samsung",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "discount",
+      "name": "Descuentos",
+      "type": "number",
+      "values": [
+        {
+          "id": "5-100",
+          "name": "Desde 5% OFF",
+          "results": 679
+        },
+        {
+          "id": "10-100",
+          "name": "Desde 10% OFF",
+          "results": 285
+        },
+        {
+          "id": "15-100",
+          "name": "Desde 15% OFF",
+          "results": 91
+        },
+        {
+          "id": "20-100",
+          "name": "Desde 20% OFF",
+          "results": 51
+        },
+        {
+          "id": "25-100",
+          "name": "Desde 25% OFF",
+          "results": 39
+        },
+        {
+          "id": "30-100",
+          "name": "Desde 30% OFF",
+          "results": 35
+        },
+        {
+          "id": "40-100",
+          "name": "Desde 40% OFF",
+          "results": 6
+        },
+        {
+          "id": "50-100",
+          "name": "Desde 50% OFF",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "price",
+      "name": "Precio",
+      "type": "range",
+      "values": [
+        {
+          "id": "*-15000.0",
+          "name": "Hasta $ 15.000",
+          "results": 2752
+        },
+        {
+          "id": "15000.0-35000.0",
+          "name": "$15.000 a $35.000",
+          "results": 3214
+        },
+        {
+          "id": "35000.0-*",
+          "name": "M\u00e1s de $35.000",
+          "results": 3440
+        }
+      ]
+    },
+    {
+      "id": "accepts_mercadopago",
+      "name": "Filtro por MercadoPago",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con MercadoPago",
+          "results": 9406
+        }
+      ]
+    },
+    {
+      "id": "installments",
+      "name": "Pago",
+      "type": "text",
+      "values": [
+        {
+          "id": "yes",
+          "name": "En cuotas",
+          "results": 9208
+        },
+        {
+          "id": "no_interest",
+          "name": "Sin inter\u00e9s",
+          "results": 2086
+        }
+      ]
+    },
+    {
+      "id": "shipping",
+      "name": "Tipo de entrega",
+      "type": "text",
+      "values": [
+        {
+          "id": "mercadoenvios",
+          "name": "Con env\u00edo",
+          "results": 9402
+        },
+        {
+          "id": "fulfillment",
+          "name": "Full",
+          "results": 418
+        }
+      ]
+    },
+    {
+      "id": "power_seller",
+      "name": "Filtro por calidad de vendedores",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Mejores vendedores",
+          "results": 5279
+        }
+      ]
+    },
+    {
+      "id": "since",
+      "name": "Filtro por fecha de comienzo",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Publicados hoy",
+          "results": 90
+        }
+      ]
+    },
+    {
+      "id": "until",
+      "name": "Filtro por fecha de finalizaci\u00f3n",
+      "type": "text",
+      "values": [
+        {
+          "id": "today",
+          "name": "Finalizan hoy",
+          "results": 4
+        }
+      ]
+    },
+    {
+      "id": "has_video",
+      "name": "Filtro por publicaciones con video",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Publicaciones con video",
+          "results": 1322
+        }
+      ]
+    },
+    {
+      "id": "has_pictures",
+      "name": "Filtro por publicaciones con im\u00e1genes",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "yes",
+          "name": "Con fotos",
+          "results": 9406
+        }
+      ]
+    },
+    {
+      "id": "all_payment_methods_discount",
+      "name": "Descuentos para todos los medios de pago",
+      "type": "number",
+      "values": [
+        {
+          "id": "1-100",
+          "name": "Desde 1% OFF",
+          "results": 186
+        },
+        {
+          "id": "5-100",
+          "name": "Desde 5% OFF",
+          "results": 180
+        },
+        {
+          "id": "10-100",
+          "name": "Desde 10% OFF",
+          "results": 153
+        },
+        {
+          "id": "15-100",
+          "name": "Desde 15% OFF",
+          "results": 16
+        },
+        {
+          "id": "30-100",
+          "name": "Desde 30% OFF",
+          "results": 4
+        }
+      ]
+    },
+    {
+      "id": "price_campaign_id",
+      "name": "Campa\u00f1a",
+      "type": "number",
+      "values": [
+        {
+          "id": "P-MLA10202002",
+          "name": "P-MLA10202002",
+          "results": 9
+        },
+        {
+          "id": "MLA27076",
+          "name": "MLA27076",
+          "results": 8
+        },
+        {
+          "id": "MLA25649",
+          "name": "MLA25649",
+          "results": 6
+        },
+        {
+          "id": "P-MLA10299002",
+          "name": "P-MLA10299002",
+          "results": 2
+        }
+      ]
+    },
+    {
+      "id": "promotion_type",
+      "name": "Tipo de promoci\u00f3n",
+      "type": "text",
+      "values": [
+        {
+          "id": "deal_of_the_day",
+          "name": "Oferta del d\u00eda",
+          "results": 9
+        },
+        {
+          "id": "lightning",
+          "name": "Oferta rel\u00e1mpago",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "shipping_cost",
+      "name": "Costo de env\u00edo",
+      "type": "text",
+      "values": [
+        {
+          "id": "free",
+          "name": "Gratis",
+          "results": 7196
+        }
+      ]
+    },
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "206",
+          "name": "Samsung",
+          "results": 519
+        },
+        {
+          "id": "9344",
+          "name": "Apple",
+          "results": 482
+        },
+        {
+          "id": "276243",
+          "name": "Gen\u00e9rica",
+          "results": 300
+        },
+        {
+          "id": "9544367",
+          "name": "Amazfit",
+          "results": 290
+        },
+        {
+          "id": "2803406",
+          "name": "Colmi",
+          "results": 226
+        },
+        {
+          "id": "59387",
+          "name": "Xiaomi",
+          "results": 204
+        },
+        {
+          "id": "9785",
+          "name": "Garmin",
+          "results": 195
+        },
+        {
+          "id": "410979",
+          "name": "Noga",
+          "results": 104
+        },
+        {
+          "id": "8745025",
+          "name": "Haylou",
+          "results": 94
+        },
+        {
+          "id": "235060",
+          "name": "Mistral",
+          "results": 80
+        },
+        {
+          "id": "8784",
+          "name": "Huawei",
+          "results": 74
+        },
+        {
+          "id": "11719082",
+          "name": "Kieslect",
+          "results": 63
+        },
+        {
+          "id": "8233996",
+          "name": "Nictom",
+          "results": 56
+        },
+        {
+          "id": "1001181",
+          "name": "Tressa",
+          "results": 55
+        },
+        {
+          "id": "8769001",
+          "name": "DT NO.1",
+          "results": 50
+        },
+        {
+          "id": "94681",
+          "name": "X-View",
+          "results": 45
+        },
+        {
+          "id": "2131342",
+          "name": "Soul",
+          "results": 44
+        },
+        {
+          "id": "10972880",
+          "name": "Imilab",
+          "results": 43
+        },
+        {
+          "id": "9595212",
+          "name": "X-time",
+          "results": 41
+        },
+        {
+          "id": "2540528",
+          "name": "Microwear",
+          "results": 38
+        },
+        {
+          "id": "944557",
+          "name": "Fitbit",
+          "results": 32
+        },
+        {
+          "id": "428938",
+          "name": "Sweet",
+          "results": 30
+        },
+        {
+          "id": "6623623",
+          "name": "Honor",
+          "results": 27
+        },
+        {
+          "id": "2786082",
+          "name": "Knock Out",
+          "results": 27
+        },
+        {
+          "id": "12064163",
+          "name": "JD",
+          "results": 26
+        },
+        {
+          "id": "9384554",
+          "name": "Smart Bracelet D20",
+          "results": 25
+        },
+        {
+          "id": "50584",
+          "name": "Netmak",
+          "results": 25
+        },
+        {
+          "id": "2503",
+          "name": "Motorola",
+          "results": 25
+        },
+        {
+          "id": "191958",
+          "name": "West",
+          "results": 25
+        },
+        {
+          "id": "13503242",
+          "name": "InnJoo",
+          "results": 24
+        },
+        {
+          "id": "410974",
+          "name": "Gadnic",
+          "results": 23
+        },
+        {
+          "id": "8900905",
+          "name": "Suono",
+          "results": 22
+        },
+        {
+          "id": "3980755",
+          "name": "Mobvoi",
+          "results": 21
+        },
+        {
+          "id": "9566437",
+          "name": "T-Go",
+          "results": 20
+        },
+        {
+          "id": "13506352",
+          "name": "Smart Bracelet",
+          "results": 20
+        },
+        {
+          "id": "12355381",
+          "name": "Canta Pri",
+          "results": 20
+        },
+        {
+          "id": "59772",
+          "name": "OEM",
+          "results": 17
+        },
+        {
+          "id": "26706",
+          "name": "Fossil",
+          "results": 17
+        },
+        {
+          "id": "2153504",
+          "name": "John L. Cook",
+          "results": 16
+        },
+        {
+          "id": "12298016",
+          "name": "Haxly",
+          "results": 16
+        },
+        {
+          "id": "26660",
+          "name": "Timex",
+          "results": 15
+        },
+        {
+          "id": "9031476",
+          "name": "IWO",
+          "results": 14
+        },
+        {
+          "id": "8060347",
+          "name": "Solana",
+          "results": 13
+        },
+        {
+          "id": "7232708",
+          "name": "BlueStar",
+          "results": 13
+        },
+        {
+          "id": "3571299",
+          "name": "Papaison",
+          "results": 13
+        },
+        {
+          "id": "120788",
+          "name": "Skmei",
+          "results": 13
+        },
+        {
+          "id": "9703855",
+          "name": "Mibro",
+          "results": 12
+        },
+        {
+          "id": "7494",
+          "name": "Lenovo",
+          "results": 12
+        },
+        {
+          "id": "6420781",
+          "name": "Kospet",
+          "results": 12
+        },
+        {
+          "id": "410971",
+          "name": "Smart Tech",
+          "results": 11
+        },
+        {
+          "id": "11156454",
+          "name": "RhinoShield",
+          "results": 11
+        },
+        {
+          "id": "5333829",
+          "name": "Lige",
+          "results": 10
+        },
+        {
+          "id": "428844",
+          "name": "Stone",
+          "results": 10
+        },
+        {
+          "id": "2623647",
+          "name": "FoxBox",
+          "results": 10
+        },
+        {
+          "id": "93504",
+          "name": "Kanji",
+          "results": 9
+        },
+        {
+          "id": "2985803",
+          "name": "Dynamic",
+          "results": 9
+        },
+        {
+          "id": "2621225",
+          "name": "U8",
+          "results": 9
+        },
+        {
+          "id": "1149864",
+          "name": "Paddle Watch",
+          "results": 9
+        },
+        {
+          "id": "14799",
+          "name": "TAG Heuer",
+          "results": 8
+        },
+        {
+          "id": "9807",
+          "name": "Noblex",
+          "results": 7
+        },
+        {
+          "id": "434181",
+          "name": "Instto",
+          "results": 7
+        },
+        {
+          "id": "15802",
+          "name": "Kolke",
+          "results": 7
+        },
+        {
+          "id": "103546",
+          "name": "Spigen",
+          "results": 7
+        },
+        {
+          "id": "455345",
+          "name": "Michael Kors",
+          "results": 6
+        },
+        {
+          "id": "440439",
+          "name": "Lemfo",
+          "results": 6
+        },
+        {
+          "id": "15722",
+          "name": "Universal",
+          "results": 6
+        },
+        {
+          "id": "13667183",
+          "name": "HiFuture",
+          "results": 6
+        },
+        {
+          "id": "11452467",
+          "name": "Kalinco",
+          "results": 6
+        },
+        {
+          "id": "56066",
+          "name": "Polar",
+          "results": 5
+        },
+        {
+          "id": "1212612",
+          "name": "Wonlex",
+          "results": 5
+        },
+        {
+          "id": "1161949",
+          "name": "F\u00e9raud",
+          "results": 5
+        },
+        {
+          "id": "944811",
+          "name": "Stylos",
+          "results": 4
+        },
+        {
+          "id": "911259",
+          "name": "Targa",
+          "results": 4
+        },
+        {
+          "id": "9059669",
+          "name": "Goufit",
+          "results": 4
+        },
+        {
+          "id": "8241451",
+          "name": "iQual",
+          "results": 4
+        },
+        {
+          "id": "518193",
+          "name": "U Watch",
+          "results": 4
+        },
+        {
+          "id": "498103",
+          "name": "MyWigo",
+          "results": 4
+        },
+        {
+          "id": "493204",
+          "name": "NO.1",
+          "results": 4
+        },
+        {
+          "id": "4417947",
+          "name": "Sport",
+          "results": 4
+        },
+        {
+          "id": "417723",
+          "name": "DigiLink",
+          "results": 4
+        },
+        {
+          "id": "38765",
+          "name": "Smart",
+          "results": 4
+        },
+        {
+          "id": "3663698",
+          "name": "SMA",
+          "results": 4
+        },
+        {
+          "id": "280769",
+          "name": "QCY",
+          "results": 4
+        },
+        {
+          "id": "2788930",
+          "name": "MD",
+          "results": 4
+        },
+        {
+          "id": "13714489",
+          "name": "Smart Bracelet M5",
+          "results": 4
+        },
+        {
+          "id": "11569150",
+          "name": "Sin marca",
+          "results": 4
+        },
+        {
+          "id": "95538",
+          "name": "Kelyx",
+          "results": 3
+        },
+        {
+          "id": "9384910",
+          "name": "Smartwatch T80",
+          "results": 3
+        },
+        {
+          "id": "5512424",
+          "name": "Norcel",
+          "results": 3
+        },
+        {
+          "id": "5159007",
+          "name": "Wiwu",
+          "results": 3
+        },
+        {
+          "id": "350225",
+          "name": "SKY",
+          "results": 3
+        },
+        {
+          "id": "3153921",
+          "name": "Aiwatch",
+          "results": 3
+        },
+        {
+          "id": "3089384",
+          "name": "Umidigi",
+          "results": 3
+        },
+        {
+          "id": "2295692",
+          "name": "Grow",
+          "results": 3
+        },
+        {
+          "id": "2122509",
+          "name": "Withings",
+          "results": 3
+        },
+        {
+          "id": "19345",
+          "name": "VTech",
+          "results": 3
+        },
+        {
+          "id": "15627651",
+          "name": "Grow Home",
+          "results": 3
+        },
+        {
+          "id": "12278342",
+          "name": "M3",
+          "results": 3
+        },
+        {
+          "id": "10177806",
+          "name": "Ruffo",
+          "results": 3
+        },
+        {
+          "id": "9790",
+          "name": "TomTom",
+          "results": 2
+        },
+        {
+          "id": "950639",
+          "name": "Level Up",
+          "results": 2
+        },
+        {
+          "id": "9232788",
+          "name": "Dala Games",
+          "results": 2
+        },
+        {
+          "id": "9188",
+          "name": "Reebok",
+          "results": 2
+        },
+        {
+          "id": "8782175",
+          "name": "Volga",
+          "results": 2
+        },
+        {
+          "id": "79751",
+          "name": "Kassel",
+          "results": 2
+        },
+        {
+          "id": "6866402",
+          "name": "RF",
+          "results": 2
+        },
+        {
+          "id": "6858489",
+          "name": "CEO Dines",
+          "results": 2
+        },
+        {
+          "id": "6771339",
+          "name": "Alo",
+          "results": 2
+        },
+        {
+          "id": "5974917",
+          "name": "Padgene",
+          "results": 2
+        },
+        {
+          "id": "560405",
+          "name": "Zeblaze",
+          "results": 2
+        },
+        {
+          "id": "5052872",
+          "name": "Sprint",
+          "results": 2
+        },
+        {
+          "id": "50458",
+          "name": "Havit",
+          "results": 2
+        },
+        {
+          "id": "494393",
+          "name": "Prograce",
+          "results": 2
+        },
+        {
+          "id": "45025",
+          "name": "Dolphin",
+          "results": 2
+        },
+        {
+          "id": "428261",
+          "name": "Beurer",
+          "results": 2
+        },
+        {
+          "id": "416075",
+          "name": "Oryx",
+          "results": 2
+        },
+        {
+          "id": "415126",
+          "name": "Daza",
+          "results": 2
+        },
+        {
+          "id": "2786070",
+          "name": "Dakot",
+          "results": 2
+        },
+        {
+          "id": "2786012",
+          "name": "M4",
+          "results": 2
+        },
+        {
+          "id": "2688948",
+          "name": "Watch-U",
+          "results": 2
+        },
+        {
+          "id": "26604",
+          "name": "Suunto",
+          "results": 2
+        },
+        {
+          "id": "2534702",
+          "name": "Kingwear",
+          "results": 2
+        },
+        {
+          "id": "24581",
+          "name": "Jean Cartier",
+          "results": 2
+        },
+        {
+          "id": "215",
+          "name": "LG",
+          "results": 2
+        },
+        {
+          "id": "17587",
+          "name": "Razer",
+          "results": 2
+        },
+        {
+          "id": "154971",
+          "name": "Pr\u00fcne",
+          "results": 2
+        },
+        {
+          "id": "14256315",
+          "name": "Wearfit",
+          "results": 2
+        },
+        {
+          "id": "13585316",
+          "name": "WickPro.",
+          "results": 2
+        },
+        {
+          "id": "12132339",
+          "name": "M5",
+          "results": 2
+        },
+        {
+          "id": "120751",
+          "name": "Emporio Armani",
+          "results": 2
+        },
+        {
+          "id": "11813238",
+          "name": "L&J",
+          "results": 2
+        },
+        {
+          "id": "11648727",
+          "name": "Jian Ya Na",
+          "results": 2
+        },
+        {
+          "id": "11506805",
+          "name": "Suoman",
+          "results": 2
+        },
+        {
+          "id": "11182209",
+          "name": "Aitech",
+          "results": 2
+        },
+        {
+          "id": "11160773",
+          "name": "ArmorSuit",
+          "results": 2
+        },
+        {
+          "id": "11122120",
+          "name": "Daikon",
+          "results": 2
+        },
+        {
+          "id": "1089",
+          "name": "Hyundai",
+          "results": 2
+        },
+        {
+          "id": "10151",
+          "name": "DBS",
+          "results": 2
+        },
+        {
+          "id": "99916",
+          "name": "DL",
+          "results": 1
+        },
+        {
+          "id": "995",
+          "name": "Sony",
+          "results": 1
+        },
+        {
+          "id": "9739",
+          "name": "Evolution",
+          "results": 1
+        },
+        {
+          "id": "9667",
+          "name": "Decathlon",
+          "results": 1
+        },
+        {
+          "id": "929636",
+          "name": "SPL",
+          "results": 1
+        },
+        {
+          "id": "9049039",
+          "name": "Spovan",
+          "results": 1
+        },
+        {
+          "id": "8623342",
+          "name": "Xpower",
+          "results": 1
+        },
+        {
+          "id": "83764",
+          "name": "GTC",
+          "results": 1
+        },
+        {
+          "id": "83152",
+          "name": "Seisa",
+          "results": 1
+        },
+        {
+          "id": "8145354",
+          "name": "Soundpeats",
+          "results": 1
+        },
+        {
+          "id": "8112646",
+          "name": "Realme",
+          "results": 1
+        },
+        {
+          "id": "7849159",
+          "name": "M7",
+          "results": 1
+        },
+        {
+          "id": "7561",
+          "name": "ZTE",
+          "results": 1
+        },
+        {
+          "id": "7294334",
+          "name": "Asus",
+          "results": 1
+        },
+        {
+          "id": "6212463",
+          "name": "H8",
+          "results": 1
+        },
+        {
+          "id": "59761",
+          "name": "OnePlus",
+          "results": 1
+        },
+        {
+          "id": "58371",
+          "name": "Hero",
+          "results": 1
+        },
+        {
+          "id": "52701",
+          "name": "Google",
+          "results": 1
+        },
+        {
+          "id": "5056348",
+          "name": "Letsfit",
+          "results": 1
+        },
+        {
+          "id": "5053305",
+          "name": "Newvision",
+          "results": 1
+        },
+        {
+          "id": "50299",
+          "name": "Mitzu",
+          "results": 1
+        },
+        {
+          "id": "471647",
+          "name": "Skagen",
+          "results": 1
+        },
+        {
+          "id": "3722112",
+          "name": "Microfast",
+          "results": 1
+        },
+        {
+          "id": "3681817",
+          "name": "Sol",
+          "results": 1
+        },
+        {
+          "id": "3513040",
+          "name": "Slide",
+          "results": 1
+        },
+        {
+          "id": "3384091",
+          "name": "Pro",
+          "results": 1
+        },
+        {
+          "id": "31163",
+          "name": "Multilaser",
+          "results": 1
+        },
+        {
+          "id": "30844",
+          "name": "Alcatel",
+          "results": 1
+        },
+        {
+          "id": "2879",
+          "name": "Nokia",
+          "results": 1
+        },
+        {
+          "id": "2804265",
+          "name": "SM",
+          "results": 1
+        },
+        {
+          "id": "2786090",
+          "name": "Zafira",
+          "results": 1
+        },
+        {
+          "id": "27222",
+          "name": "EXO",
+          "results": 1
+        },
+        {
+          "id": "2581903",
+          "name": "Only",
+          "results": 1
+        },
+        {
+          "id": "2542657",
+          "name": "Tempo",
+          "results": 1
+        },
+        {
+          "id": "2517328",
+          "name": "DC Comics",
+          "results": 1
+        },
+        {
+          "id": "2495044",
+          "name": "Microbell",
+          "results": 1
+        },
+        {
+          "id": "24630",
+          "name": "Everlast",
+          "results": 1
+        },
+        {
+          "id": "2426343",
+          "name": "Dinax",
+          "results": 1
+        },
+        {
+          "id": "23461",
+          "name": "Diesel",
+          "results": 1
+        },
+        {
+          "id": "2332581",
+          "name": "Kate Spade",
+          "results": 1
+        },
+        {
+          "id": "23078",
+          "name": "Avon",
+          "results": 1
+        },
+        {
+          "id": "2232566",
+          "name": "Eurotime",
+          "results": 1
+        },
+        {
+          "id": "2149279",
+          "name": "Kore",
+          "results": 1
+        },
+        {
+          "id": "211867",
+          "name": "Pebble",
+          "results": 1
+        },
+        {
+          "id": "2088733",
+          "name": "Univex",
+          "results": 1
+        },
+        {
+          "id": "19640",
+          "name": "Lotus",
+          "results": 1
+        },
+        {
+          "id": "15903",
+          "name": "Acer",
+          "results": 1
+        },
+        {
+          "id": "157408",
+          "name": "Nixon",
+          "results": 1
+        },
+        {
+          "id": "15279695",
+          "name": "ANC+",
+          "results": 1
+        },
+        {
+          "id": "13919421",
+          "name": "HW21",
+          "results": 1
+        },
+        {
+          "id": "13474419",
+          "name": "RGC STORE",
+          "results": 1
+        },
+        {
+          "id": "13361696",
+          "name": "T55",
+          "results": 1
+        },
+        {
+          "id": "13292734",
+          "name": "ZED",
+          "results": 1
+        },
+        {
+          "id": "13262970",
+          "name": "FAB",
+          "results": 1
+        },
+        {
+          "id": "12925415",
+          "name": "Dehuka",
+          "results": 1
+        },
+        {
+          "id": "12901890",
+          "name": "OTR",
+          "results": 1
+        },
+        {
+          "id": "122133",
+          "name": "OEX",
+          "results": 1
+        },
+        {
+          "id": "11822824",
+          "name": "Grow Up",
+          "results": 1
+        },
+        {
+          "id": "11166712",
+          "name": "Luo",
+          "results": 1
+        },
+        {
+          "id": "11161922",
+          "name": "Sudroid",
+          "results": 1
+        },
+        {
+          "id": "11161907",
+          "name": "Mmobiel",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "CASE_COLOR",
+      "name": "Color de la caja",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "52049",
+          "name": "Negro",
+          "results": 1539
+        },
+        {
+          "id": "52055",
+          "name": "Blanco",
+          "results": 371
+        },
+        {
+          "id": "116435",
+          "name": "Black",
+          "results": 338
+        },
+        {
+          "id": "51994",
+          "name": "Rosa",
+          "results": 212
+        },
+        {
+          "id": "52053",
+          "name": "Plateado",
+          "results": 199
+        },
+        {
+          "id": "52028",
+          "name": "Azul",
+          "results": 127
+        },
+        {
+          "id": "283165",
+          "name": "Gris",
+          "results": 112
+        },
+        {
+          "id": "2723554",
+          "name": "Silver",
+          "results": 85
+        },
+        {
+          "id": "3504679",
+          "name": "Blanca",
+          "results": 66
+        },
+        {
+          "id": "162060",
+          "name": "Gris espacial",
+          "results": 61
+        },
+        {
+          "id": "283164",
+          "name": "Dorado",
+          "results": 49
+        },
+        {
+          "id": "3071503",
+          "name": "Graphite",
+          "results": 43
+        },
+        {
+          "id": "51993",
+          "name": "Rojo",
+          "results": 41
+        },
+        {
+          "id": "4094035",
+          "name": "Dark gray",
+          "results": 34
+        },
+        {
+          "id": "52014",
+          "name": "Verde",
+          "results": 32
+        },
+        {
+          "id": "8821048",
+          "name": "Aqua black",
+          "results": 30
+        },
+        {
+          "id": "11157706",
+          "name": "Azul medianoche",
+          "results": 30
+        },
+        {
+          "id": "52021",
+          "name": "Celeste",
+          "results": 29
+        },
+        {
+          "id": "5441535",
+          "name": "Space gray",
+          "results": 27
+        },
+        {
+          "id": "52051",
+          "name": "Gris oscuro",
+          "results": 27
+        },
+        {
+          "id": "10573651",
+          "name": "Plata",
+          "results": 26
+        },
+        {
+          "id": "52035",
+          "name": "Violeta",
+          "results": 24
+        },
+        {
+          "id": "52043",
+          "name": "Rosa claro",
+          "results": 22
+        },
+        {
+          "id": "59628",
+          "name": "Gold",
+          "results": 21
+        },
+        {
+          "id": "6623624",
+          "name": "Meteorite black",
+          "results": 20
+        },
+        {
+          "id": "3849879",
+          "name": "Rose gold",
+          "results": 19
+        },
+        {
+          "id": "11157705",
+          "name": "Blanco estelar",
+          "results": 19
+        },
+        {
+          "id": "95604",
+          "name": "Midnight black",
+          "results": 18
+        },
+        {
+          "id": "2726335",
+          "name": "Pink",
+          "results": 18
+        },
+        {
+          "id": "3014356",
+          "name": "Blue",
+          "results": 16
+        },
+        {
+          "id": "283161",
+          "name": "Azul marino",
+          "results": 15
+        },
+        {
+          "id": "2790177",
+          "name": "Rose",
+          "results": 13
+        },
+        {
+          "id": "7139195",
+          "name": "(Product)Red",
+          "results": 12
+        },
+        {
+          "id": "52045",
+          "name": "Rosa p\u00e1lido",
+          "results": 12
+        },
+        {
+          "id": "52007",
+          "name": "Amarillo",
+          "results": 11
+        },
+        {
+          "id": "43221",
+          "name": "Shadow black",
+          "results": 11
+        },
+        {
+          "id": "3204",
+          "name": "Titanio",
+          "results": 11
+        },
+        {
+          "id": "4967946",
+          "name": "Graphite black",
+          "results": 10
+        },
+        {
+          "id": "12242233",
+          "name": "Phantom Black",
+          "results": 10
+        },
+        {
+          "id": "10573649",
+          "name": "Oro",
+          "results": 10
+        },
+        {
+          "id": "9141749",
+          "name": "Brown leather",
+          "results": 9
+        },
+        {
+          "id": "57070",
+          "name": "Transparente",
+          "results": 9
+        },
+        {
+          "id": "5429021",
+          "name": "Pink gold",
+          "results": 9
+        },
+        {
+          "id": "43162",
+          "name": "Mystic black",
+          "results": 9
+        },
+        {
+          "id": "3624805",
+          "name": "Ivory white",
+          "results": 9
+        },
+        {
+          "id": "2826196",
+          "name": "Negra",
+          "results": 9
+        },
+        {
+          "id": "152220",
+          "name": "Mystic silver",
+          "results": 9
+        },
+        {
+          "id": "976",
+          "name": "Plata",
+          "results": 8
+        },
+        {
+          "id": "8110721",
+          "name": "Black titanium",
+          "results": 8
+        },
+        {
+          "id": "7989824",
+          "name": "Shadow gray",
+          "results": 8
+        },
+        {
+          "id": "43295",
+          "name": "Ivory",
+          "results": 8
+        },
+        {
+          "id": "283154",
+          "name": "Marr\u00f3n claro",
+          "results": 8
+        },
+        {
+          "id": "13234507",
+          "name": "Pink Gold",
+          "results": 8
+        },
+        {
+          "id": "3749416",
+          "name": "Wild green",
+          "results": 7
+        },
+        {
+          "id": "12242231",
+          "name": "Glacier Silver",
+          "results": 7
+        },
+        {
+          "id": "11273985",
+          "name": "Infinite black",
+          "results": 7
+        },
+        {
+          "id": "52033",
+          "name": "Azul oscuro",
+          "results": 6
+        },
+        {
+          "id": "52019",
+          "name": "Verde oscuro",
+          "results": 6
+        },
+        {
+          "id": "52001",
+          "name": "Beige",
+          "results": 6
+        },
+        {
+          "id": "13153501",
+          "name": "Ember black",
+          "results": 6
+        },
+        {
+          "id": "74988",
+          "name": "Negro/Rojo",
+          "results": 5
+        },
+        {
+          "id": "6531236",
+          "name": "Desert gold",
+          "results": 5
+        },
+        {
+          "id": "59786",
+          "name": "Negro/Verde",
+          "results": 5
+        },
+        {
+          "id": "52029",
+          "name": "Azul claro",
+          "results": 5
+        },
+        {
+          "id": "52012",
+          "name": "Dorado oscuro",
+          "results": 5
+        },
+        {
+          "id": "43070",
+          "name": "Steel blue",
+          "results": 5
+        },
+        {
+          "id": "4107991",
+          "name": "Black/Gray",
+          "results": 5
+        },
+        {
+          "id": "283163",
+          "name": "Rosa chicle",
+          "results": 5
+        },
+        {
+          "id": "2790166",
+          "name": "White",
+          "results": 5
+        },
+        {
+          "id": "2715794",
+          "name": "Green",
+          "results": 5
+        },
+        {
+          "id": "12630282",
+          "name": "Espacio negro",
+          "results": 5
+        },
+        {
+          "id": "11457010",
+          "name": "Terra rosa",
+          "results": 5
+        },
+        {
+          "id": "11344820",
+          "name": "Powder gray",
+          "results": 5
+        },
+        {
+          "id": "9009855",
+          "name": "Rock black",
+          "results": 4
+        },
+        {
+          "id": "8183",
+          "name": "Azul oc\u00e9ano",
+          "results": 4
+        },
+        {
+          "id": "6008055",
+          "name": "Black stainless steel",
+          "results": 4
+        },
+        {
+          "id": "52015",
+          "name": "Verde claro",
+          "results": 4
+        },
+        {
+          "id": "493882",
+          "name": "Blanco luna",
+          "results": 4
+        },
+        {
+          "id": "4162882",
+          "name": "Camo green",
+          "results": 4
+        },
+        {
+          "id": "4060979",
+          "name": "Rose pink",
+          "results": 4
+        },
+        {
+          "id": "3173068",
+          "name": "Sapphire",
+          "results": 4
+        },
+        {
+          "id": "3065199",
+          "name": "Aluminio",
+          "results": 4
+        },
+        {
+          "id": "2414689",
+          "name": "Acero inoxidable",
+          "results": 4
+        },
+        {
+          "id": "2324",
+          "name": "Grafito",
+          "results": 4
+        },
+        {
+          "id": "12891695",
+          "name": "Moonlight grey",
+          "results": 4
+        },
+        {
+          "id": "7990768",
+          "name": "Space Gray",
+          "results": 3
+        },
+        {
+          "id": "6452425",
+          "name": "Camo blue",
+          "results": 3
+        },
+        {
+          "id": "59934",
+          "name": "Negro/Gris",
+          "results": 3
+        },
+        {
+          "id": "59623",
+          "name": "Gray",
+          "results": 3
+        },
+        {
+          "id": "52022",
+          "name": "Agua",
+          "results": 3
+        },
+        {
+          "id": "52008",
+          "name": "Crema",
+          "results": 3
+        },
+        {
+          "id": "52005",
+          "name": "Marr\u00f3n",
+          "results": 3
+        },
+        {
+          "id": "4606299",
+          "name": "Urban grey",
+          "results": 3
+        },
+        {
+          "id": "43367",
+          "name": "Onyx black",
+          "results": 3
+        },
+        {
+          "id": "283160",
+          "name": "Turquesa",
+          "results": 3
+        },
+        {
+          "id": "283149",
+          "name": "Coral",
+          "results": 3
+        },
+        {
+          "id": "157432",
+          "name": "Oro rosa",
+          "results": 3
+        },
+        {
+          "id": "15044009",
+          "name": "unico",
+          "results": 3
+        },
+        {
+          "id": "13153506",
+          "name": "Astro black/Gold",
+          "results": 3
+        },
+        {
+          "id": "12891691",
+          "name": "Thunder black",
+          "results": 3
+        },
+        {
+          "id": "11344795",
+          "name": "Copper rose aluminum",
+          "results": 3
+        },
+        {
+          "id": "11255465",
+          "name": "Polar night black",
+          "results": 3
+        },
+        {
+          "id": "11171283",
+          "name": "Rosado",
+          "results": 3
+        },
+        {
+          "id": "9572307",
+          "name": "Soft gold aluminum",
+          "results": 2
+        },
+        {
+          "id": "94468",
+          "name": "Verde/Negro",
+          "results": 2
+        },
+        {
+          "id": "9292096",
+          "name": "Marl white",
+          "results": 2
+        },
+        {
+          "id": "9235349",
+          "name": "Aluminum alloy",
+          "results": 2
+        },
+        {
+          "id": "9008823",
+          "name": "Mystic bronze",
+          "results": 2
+        },
+        {
+          "id": "8075989",
+          "name": "Eclipse black",
+          "results": 2
+        },
+        {
+          "id": "7167848",
+          "name": "NO",
+          "results": 2
+        },
+        {
+          "id": "59785",
+          "name": "Negro/Azul",
+          "results": 2
+        },
+        {
+          "id": "52038",
+          "name": "Lila",
+          "results": 2
+        },
+        {
+          "id": "52003",
+          "name": "Nude",
+          "results": 2
+        },
+        {
+          "id": "5027116",
+          "name": "Gold rose",
+          "results": 2
+        },
+        {
+          "id": "4863852",
+          "name": "Flamingo pink",
+          "results": 2
+        },
+        {
+          "id": "4766395",
+          "name": "Charcoal black",
+          "results": 2
+        },
+        {
+          "id": "4636783",
+          "name": "Light gold",
+          "results": 2
+        },
+        {
+          "id": "3702112",
+          "name": "Army green",
+          "results": 2
+        },
+        {
+          "id": "3275573",
+          "name": "Starlight",
+          "results": 2
+        },
+        {
+          "id": "3103858",
+          "name": "Orange",
+          "results": 2
+        },
+        {
+          "id": "3053508",
+          "name": "Moss",
+          "results": 2
+        },
+        {
+          "id": "283150",
+          "name": "Naranja claro",
+          "results": 2
+        },
+        {
+          "id": "2821813",
+          "name": "Acero",
+          "results": 2
+        },
+        {
+          "id": "2790168",
+          "name": "Khaki",
+          "results": 2
+        },
+        {
+          "id": "271528",
+          "name": "Black aluminum",
+          "results": 2
+        },
+        {
+          "id": "2548119",
+          "name": "Rosa/Dorado",
+          "results": 2
+        },
+        {
+          "id": "196183",
+          "name": "Negro/Cuero negro",
+          "results": 2
+        },
+        {
+          "id": "13025097",
+          "name": "Rose Gold",
+          "results": 2
+        },
+        {
+          "id": "12924532",
+          "name": "Plata",
+          "results": 2
+        },
+        {
+          "id": "11344789",
+          "name": "Carbon aluminium",
+          "results": 2
+        },
+        {
+          "id": "10940869",
+          "name": "Lichen camo",
+          "results": 2
+        },
+        {
+          "id": "10940865",
+          "name": "Graphite camo",
+          "results": 2
+        },
+        {
+          "id": "108773",
+          "name": "Negro/Negro",
+          "results": 2
+        },
+        {
+          "id": "10867010",
+          "name": "Desert grey",
+          "results": 2
+        },
+        {
+          "id": "9873711",
+          "name": "Morado",
+          "results": 1
+        },
+        {
+          "id": "9580",
+          "name": "Platinum",
+          "results": 1
+        },
+        {
+          "id": "9572912",
+          "name": "Roja",
+          "results": 1
+        },
+        {
+          "id": "8987967",
+          "name": "Agate black",
+          "results": 1
+        },
+        {
+          "id": "8980865",
+          "name": "Acero inox",
+          "results": 1
+        },
+        {
+          "id": "8977",
+          "name": "Night black",
+          "results": 1
+        },
+        {
+          "id": "8973",
+          "name": "Carbon black",
+          "results": 1
+        },
+        {
+          "id": "86513",
+          "name": "Aluminio",
+          "results": 1
+        },
+        {
+          "id": "8035703",
+          "name": "Oro Rosa",
+          "results": 1
+        },
+        {
+          "id": "7107352",
+          "name": "Gris claro",
+          "results": 1
+        },
+        {
+          "id": "6757150",
+          "name": "Multi color",
+          "results": 1
+        },
+        {
+          "id": "6600086",
+          "name": "Moonlight white",
+          "results": 1
+        },
+        {
+          "id": "5756674",
+          "name": "Gold/Pink",
+          "results": 1
+        },
+        {
+          "id": "5431312",
+          "name": "Granite blue",
+          "results": 1
+        },
+        {
+          "id": "5429768",
+          "name": "Polished silver",
+          "results": 1
+        },
+        {
+          "id": "52031",
+          "name": "Azul acero",
+          "results": 1
+        },
+        {
+          "id": "52000",
+          "name": "Naranja",
+          "results": 1
+        },
+        {
+          "id": "51998",
+          "name": "Bord\u00f3",
+          "results": 1
+        },
+        {
+          "id": "4374964",
+          "name": "Pink sand",
+          "results": 1
+        },
+        {
+          "id": "43359",
+          "name": "Red",
+          "results": 1
+        },
+        {
+          "id": "43260",
+          "name": "Purple",
+          "results": 1
+        },
+        {
+          "id": "4304990",
+          "name": "Light sand",
+          "results": 1
+        },
+        {
+          "id": "4234881",
+          "name": "Digital",
+          "results": 1
+        },
+        {
+          "id": "4227627",
+          "name": "Mint blue",
+          "results": 1
+        },
+        {
+          "id": "4216459",
+          "name": "Lava grey",
+          "results": 1
+        },
+        {
+          "id": "4137378",
+          "name": "Stainless steel",
+          "results": 1
+        },
+        {
+          "id": "40004",
+          "name": "Coral red",
+          "results": 1
+        },
+        {
+          "id": "397990",
+          "name": "Carbon gray",
+          "results": 1
+        },
+        {
+          "id": "3794319",
+          "name": "Ros\u00e9",
+          "results": 1
+        },
+        {
+          "id": "3729235",
+          "name": "Forest green",
+          "results": 1
+        },
+        {
+          "id": "3574995",
+          "name": "Magma red",
+          "results": 1
+        },
+        {
+          "id": "334118",
+          "name": "Tarnish",
+          "results": 1
+        },
+        {
+          "id": "3259554",
+          "name": "Rosa fuerte",
+          "results": 1
+        },
+        {
+          "id": "3241820",
+          "name": "Orchid",
+          "results": 1
+        },
+        {
+          "id": "3161837",
+          "name": "Negro/Azul/Rosa",
+          "results": 1
+        },
+        {
+          "id": "3122239",
+          "name": "Sin",
+          "results": 1
+        },
+        {
+          "id": "3069595",
+          "name": "Titanium",
+          "results": 1
+        },
+        {
+          "id": "2991927",
+          "name": "Durazno",
+          "results": 1
+        },
+        {
+          "id": "2864723",
+          "name": "Oscuro",
+          "results": 1
+        },
+        {
+          "id": "283162",
+          "name": "\u00cdndigo",
+          "results": 1
+        },
+        {
+          "id": "283157",
+          "name": "Verde lima",
+          "results": 1
+        },
+        {
+          "id": "283148",
+          "name": "Coral claro",
+          "results": 1
+        },
+        {
+          "id": "2820579",
+          "name": "5",
+          "results": 1
+        },
+        {
+          "id": "2820578",
+          "name": "3",
+          "results": 1
+        },
+        {
+          "id": "2802211",
+          "name": "Rosa dorado",
+          "results": 1
+        },
+        {
+          "id": "2745309",
+          "name": "2",
+          "results": 1
+        },
+        {
+          "id": "2678047",
+          "name": "Metal",
+          "results": 1
+        },
+        {
+          "id": "2676",
+          "name": "Verde agua",
+          "results": 1
+        },
+        {
+          "id": "2528387",
+          "name": "4",
+          "results": 1
+        },
+        {
+          "id": "2275040",
+          "name": "6",
+          "results": 1
+        },
+        {
+          "id": "2207049",
+          "name": "Navy",
+          "results": 1
+        },
+        {
+          "id": "194456",
+          "name": "Dorado/Rosa",
+          "results": 1
+        },
+        {
+          "id": "162167",
+          "name": "Gris titanio",
+          "results": 1
+        },
+        {
+          "id": "15627666",
+          "name": "Silicona Negro",
+          "results": 1
+        },
+        {
+          "id": "12924542",
+          "name": "Gris carb\u00f3n",
+          "results": 1
+        },
+        {
+          "id": "11703158",
+          "name": "Plata",
+          "results": 1
+        },
+        {
+          "id": "11401194",
+          "name": "Transparente/Blanco/Negro",
+          "results": 1
+        },
+        {
+          "id": "11344841",
+          "name": "Black/Carbon gray",
+          "results": 1
+        },
+        {
+          "id": "11344838",
+          "name": "Amethyst steel",
+          "results": 1
+        },
+        {
+          "id": "11344833",
+          "name": "Whitestone",
+          "results": 1
+        },
+        {
+          "id": "11344815",
+          "name": "Dust rose",
+          "results": 1
+        },
+        {
+          "id": "11344792",
+          "name": "Mist grey aluminium",
+          "results": 1
+        },
+        {
+          "id": "103547",
+          "name": "Gunmetal",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "DISPLAY_TYPE",
+      "name": "Tipo de pantalla",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "7510313",
+          "name": "AMOLED",
+          "results": 544
+        },
+        {
+          "id": "8821045",
+          "name": "SAMOLED",
+          "results": 427
+        },
+        {
+          "id": "8792183",
+          "name": "LTPO OLED",
+          "results": 234
+        },
+        {
+          "id": "11645440",
+          "name": "LCD TFT",
+          "results": 183
+        },
+        {
+          "id": "9074827",
+          "name": "LCD IPS",
+          "results": 146
+        },
+        {
+          "id": "11647469",
+          "name": "LCD MIP",
+          "results": 97
+        },
+        {
+          "id": "179608",
+          "name": "T\u00e1ctil",
+          "results": 81
+        },
+        {
+          "id": "81834",
+          "name": "LCD",
+          "results": 74
+        },
+        {
+          "id": "102776",
+          "name": "OLED",
+          "results": 59
+        },
+        {
+          "id": "9785276",
+          "name": "Retina",
+          "results": 46
+        },
+        {
+          "id": "92886",
+          "name": "IPS",
+          "results": 40
+        },
+        {
+          "id": "15306632",
+          "name": "Super AMOLED",
+          "results": 28
+        },
+        {
+          "id": "102258",
+          "name": "Digital",
+          "results": 25
+        },
+        {
+          "id": "9033409",
+          "name": "LTPS",
+          "results": 17
+        },
+        {
+          "id": "111825",
+          "name": "TFT",
+          "results": 15
+        },
+        {
+          "id": "11722427",
+          "name": "LCD STN",
+          "results": 8
+        },
+        {
+          "id": "81830",
+          "name": "LED",
+          "results": 6
+        },
+        {
+          "id": "8900861",
+          "name": "PMOLED",
+          "results": 4
+        },
+        {
+          "id": "11657823",
+          "name": "LCD FSTN",
+          "results": 2
+        },
+        {
+          "id": "12918047",
+          "name": "MIP",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "IS_INFANT",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Es infantil",
+          "results": 178
+        }
+      ]
+    },
+    {
+      "id": "IS_SMARTBAND",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Es smartband",
+          "results": 990
+        }
+      ]
+    },
+    {
+      "id": "IS_WATER_RESISTANT",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Es resistente al agua",
+          "results": 3294
+        }
+      ]
+    },
+    {
+      "id": "ITEM_CONDITION",
+      "name": "Condici\u00f3n",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2230284",
+          "name": "Nuevo",
+          "results": 3578
+        },
+        {
+          "id": "2230581",
+          "name": "Usado",
+          "results": 1166
+        },
+        {
+          "id": "2230582",
+          "name": "Reacondicionado",
+          "results": 9
+        }
+      ]
+    },
+    {
+      "id": "state",
+      "name": "Ubicaci\u00f3n",
+      "type": "text",
+      "values": [
+        {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal",
+          "results": 4314
+        },
+        {
+          "id": "TUxBUEdSQWVmNTVm",
+          "name": "Bs.As. G.B.A. Oeste",
+          "results": 1267
+        },
+        {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte",
+          "results": 1031
+        },
+        {
+          "id": "TUxBUEdSQXJlMDNm",
+          "name": "Bs.As. G.B.A. Sur",
+          "results": 833
+        },
+        {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "C\u00f3rdoba",
+          "results": 599
+        },
+        {
+          "id": "TUxBUFNBTmU5Nzk2",
+          "name": "Santa Fe",
+          "results": 569
+        },
+        {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior",
+          "results": 271
+        },
+        {
+          "id": "TUxBUE1FTmE5OWQ4",
+          "name": "Mendoza",
+          "results": 124
+        },
+        {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atl\u00e1ntica",
+          "results": 112
+        },
+        {
+          "id": "TUxBUFRVQ244NmM3",
+          "name": "Tucum\u00e1n",
+          "results": 64
+        },
+        {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre R\u00edos",
+          "results": 56
+        },
+        {
+          "id": "TUxBUE5FVW4xMzMzNQ",
+          "name": "Neuqu\u00e9n",
+          "results": 52
+        },
+        {
+          "id": "TUxBUFLNT29iZmZm",
+          "name": "R\u00edo Negro",
+          "results": 46
+        },
+        {
+          "id": "TUxBUFNBTm5lYjU4",
+          "name": "San Juan",
+          "results": 40
+        },
+        {
+          "id": "TUxBUE1JU3MzNjIx",
+          "name": "Misiones",
+          "results": 36
+        },
+        {
+          "id": "TUxBUENIQW8xMTNhOA",
+          "name": "Chaco",
+          "results": 36
+        },
+        {
+          "id": "TUxBUENPUnM5MjI0",
+          "name": "Corrientes",
+          "results": 34
+        },
+        {
+          "id": "TUxBUFNBTm9lOTlk",
+          "name": "Santiago del Estero",
+          "results": 26
+        },
+        {
+          "id": "TUxBUENIVXQxNDM1MQ",
+          "name": "Chubut",
+          "results": 14
+        },
+        {
+          "id": "TUxBUFNBTGFjMTJi",
+          "name": "Salta",
+          "results": 14
+        },
+        {
+          "id": "TUxBUFNBTnM0ZTcz",
+          "name": "San Luis",
+          "results": 14
+        },
+        {
+          "id": "TUxBUENBVGFiY2Fm",
+          "name": "Catamarca",
+          "results": 12
+        },
+        {
+          "id": "TUxBUExBWmEyNzY0",
+          "name": "La Rioja",
+          "results": 10
+        },
+        {
+          "id": "TUxBUEpVSnk3YmUz",
+          "name": "Jujuy",
+          "results": 8
+        },
+        {
+          "id": "TUxBUExBWmE1OWMy",
+          "name": "La Pampa",
+          "results": 8
+        },
+        {
+          "id": "TUxBUFNBTno3ZmY5",
+          "name": "Santa Cruz",
+          "results": 8
+        },
+        {
+          "id": "TUxBUEZPUmE1OTk5",
+          "name": "Formosa",
+          "results": 6
+        }
+      ]
+    },
+    {
+      "id": "MAX_WATER_RESISTANCE_DEPTH",
+      "name": "Profundidad m\u00e1xima de resistencia al agua",
+      "type": "range",
+      "values": [
+        {
+          "id": "(*-3m)",
+          "name": "3 m o menos",
+          "results": 760
+        },
+        {
+          "id": "[3m-100m)",
+          "name": "3 a 99 m",
+          "results": 1672
+        },
+        {
+          "id": "[100m-*)",
+          "name": "100 m o m\u00e1s",
+          "results": 105
+        }
+      ]
+    },
+    {
+      "id": "SMARTWATCH_CASE_MATERIAL",
+      "name": "Material de la caja del smartwatch",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2655086",
+          "name": "Aluminio",
+          "results": 518
+        },
+        {
+          "id": "8797940",
+          "name": "ABS",
+          "results": 280
+        },
+        {
+          "id": "415333",
+          "name": "Metal",
+          "results": 215
+        },
+        {
+          "id": "2803405",
+          "name": "Acero inoxidable",
+          "results": 208
+        },
+        {
+          "id": "415334",
+          "name": "Pl\u00e1stico",
+          "results": 205
+        },
+        {
+          "id": "7441229",
+          "name": "Aleaci\u00f3n de zinc",
+          "results": 138
+        },
+        {
+          "id": "5349938",
+          "name": "Aleaci\u00f3n",
+          "results": 135
+        },
+        {
+          "id": "8926501",
+          "name": "Aleaci\u00f3n de aluminio",
+          "results": 132
+        },
+        {
+          "id": "3254588",
+          "name": "Titanio",
+          "results": 87
+        },
+        {
+          "id": "3396262",
+          "name": "Policarbonato",
+          "results": 67
+        },
+        {
+          "id": "13166108",
+          "name": "Aluminio armor",
+          "results": 61
+        },
+        {
+          "id": "9211449",
+          "name": "Pol\u00edmero reforzado con fibra",
+          "results": 59
+        },
+        {
+          "id": "3048501",
+          "name": "Pol\u00edmero",
+          "results": 41
+        },
+        {
+          "id": "11657391",
+          "name": "Resina",
+          "results": 39
+        },
+        {
+          "id": "8909067",
+          "name": "Pl\u00e1stico PC",
+          "results": 37
+        },
+        {
+          "id": "7881505",
+          "name": "Acero",
+          "results": 35
+        },
+        {
+          "id": "11380791",
+          "name": "PC/ABS",
+          "results": 33
+        },
+        {
+          "id": "13153504",
+          "name": "Aleaci\u00f3n de pol\u00edmero",
+          "results": 16
+        },
+        {
+          "id": "11298977",
+          "name": "Aleaci\u00f3n de aluminio/Pol\u00edmero",
+          "results": 16
+        },
+        {
+          "id": "9822464",
+          "name": "Pol\u00edmero reforzado con fibra de vidrio",
+          "results": 14
+        },
+        {
+          "id": "10911906",
+          "name": "Acero inoxidable/Pl\u00e1stico",
+          "results": 14
+        },
+        {
+          "id": "11629904",
+          "name": "Silicona",
+          "results": 13
+        },
+        {
+          "id": "9388206",
+          "name": "Aluminio anodizado",
+          "results": 9
+        },
+        {
+          "id": "13578659",
+          "name": "Aleaci\u00f3n de aluminio/pl\u00e1stico",
+          "results": 9
+        },
+        {
+          "id": "12273484",
+          "name": "Nailon reforzado con fibra de vidrio",
+          "results": 9
+        },
+        {
+          "id": "9823900",
+          "name": "Fibra polim\u00e9rica",
+          "results": 7
+        },
+        {
+          "id": "8845989",
+          "name": "Metal/Pl\u00e1stico",
+          "results": 6
+        },
+        {
+          "id": "9228004",
+          "name": "Metal/Pl\u00e1stico de ingenier\u00eda",
+          "results": 5
+        },
+        {
+          "id": "12071483",
+          "name": "Acero inoxidable/Nailon reforzado con fibra de vidrio",
+          "results": 5
+        },
+        {
+          "id": "11694887",
+          "name": "Acero inoxidable/Cer\u00e1mica",
+          "results": 5
+        },
+        {
+          "id": "11344807",
+          "name": "Pol\u00edmero reforzado",
+          "results": 5
+        },
+        {
+          "id": "9031039",
+          "name": "PVC",
+          "results": 4
+        },
+        {
+          "id": "7927306",
+          "name": "Nylon",
+          "results": 2
+        },
+        {
+          "id": "13999115",
+          "name": "Carton rigido",
+          "results": 2
+        },
+        {
+          "id": "13750516",
+          "name": "Plastico - Carton",
+          "results": 2
+        },
+        {
+          "id": "13014812",
+          "name": "Pol\u00edmero reforzado con fibra/Acero inoxidable",
+          "results": 2
+        },
+        {
+          "id": "11320502",
+          "name": "Aleaci\u00f3n de titanio/Pol\u00edmero",
+          "results": 2
+        },
+        {
+          "id": "9205514",
+          "name": "Policarbonato reforzado con fibra de vidrio",
+          "results": 1
+        },
+        {
+          "id": "8889909",
+          "name": "Pol\u00edmero reforzado/Metal",
+          "results": 1
+        },
+        {
+          "id": "7927703",
+          "name": "Chapa",
+          "results": 1
+        },
+        {
+          "id": "13714500",
+          "name": "Pastico - Carton",
+          "results": 1
+        },
+        {
+          "id": "13506356",
+          "name": "Carton - Plastico",
+          "results": 1
+        },
+        {
+          "id": "13311341",
+          "name": "Poliamida reforzada con fibra de vidrio",
+          "results": 1
+        },
+        {
+          "id": "11734502",
+          "name": "Aluminio/Acero inoxidable",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "WITH_BLUETOOTH",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con Bluetooth",
+          "results": 4253
+        }
+      ]
+    },
+    {
+      "id": "WITH_GPS",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con GPS",
+          "results": 1872
+        }
+      ]
+    },
+    {
+      "id": "WITH_INTERCHANGEABLE_WRISTBAND",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con malla intercambiable",
+          "results": 1674
+        }
+      ]
+    },
+    {
+      "id": "WITH_MICROPHONE",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con micr\u00f3fono",
+          "results": 1192
+        }
+      ]
+    },
+    {
+      "id": "WITH_MOBILE_NETWORK",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con red m\u00f3vil",
+          "results": 329
+        }
+      ]
+    },
+    {
+      "id": "WITH_TOUCH_SCREEN",
+      "name": "Otras caracter\u00edsticas",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con pantalla t\u00e1ctil",
+          "results": 2815
+        }
+      ]
+    },
+    {
+      "id": "WITH_WIFI",
+      "name": "Wi-Fi",
+      "type": "boolean",
+      "values": [
+        {
+          "id": "242085",
+          "name": "Con Wi-Fi",
+          "results": 1349
+        }
+      ]
+    },
+    {
+      "id": "WRISTBAND_COLOR",
+      "name": "Color de la malla",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "52049",
+          "name": "Negro",
+          "results": 1402
+        },
+        {
+          "id": "116435",
+          "name": "Black",
+          "results": 339
+        },
+        {
+          "id": "51994",
+          "name": "Rosa",
+          "results": 228
+        },
+        {
+          "id": "52055",
+          "name": "Blanco",
+          "results": 182
+        },
+        {
+          "id": "52028",
+          "name": "Azul",
+          "results": 163
+        },
+        {
+          "id": "283165",
+          "name": "Gris",
+          "results": 121
+        },
+        {
+          "id": "51993",
+          "name": "Rojo",
+          "results": 97
+        },
+        {
+          "id": "2826196",
+          "name": "Negra",
+          "results": 57
+        },
+        {
+          "id": "52014",
+          "name": "Verde",
+          "results": 52
+        },
+        {
+          "id": "52021",
+          "name": "Celeste",
+          "results": 47
+        },
+        {
+          "id": "3071503",
+          "name": "Graphite",
+          "results": 43
+        },
+        {
+          "id": "4967946",
+          "name": "Graphite black",
+          "results": 41
+        },
+        {
+          "id": "52043",
+          "name": "Rosa claro",
+          "results": 37
+        },
+        {
+          "id": "2723554",
+          "name": "Silver",
+          "results": 37
+        },
+        {
+          "id": "52053",
+          "name": "Plateado",
+          "results": 34
+        },
+        {
+          "id": "8821048",
+          "name": "Aqua black",
+          "results": 30
+        },
+        {
+          "id": "52007",
+          "name": "Amarillo",
+          "results": 28
+        },
+        {
+          "id": "11157706",
+          "name": "Azul medianoche",
+          "results": 27
+        },
+        {
+          "id": "95604",
+          "name": "Midnight black",
+          "results": 25
+        },
+        {
+          "id": "52035",
+          "name": "Violeta",
+          "results": 25
+        },
+        {
+          "id": "6623624",
+          "name": "Meteorite black",
+          "results": 24
+        },
+        {
+          "id": "52005",
+          "name": "Marr\u00f3n",
+          "results": 22
+        },
+        {
+          "id": "52045",
+          "name": "Rosa p\u00e1lido",
+          "results": 21
+        },
+        {
+          "id": "11167102",
+          "name": "Azul abismo",
+          "results": 21
+        },
+        {
+          "id": "52051",
+          "name": "Gris oscuro",
+          "results": 20
+        },
+        {
+          "id": "414993",
+          "name": "Obsidian black",
+          "results": 20
+        },
+        {
+          "id": "283160",
+          "name": "Turquesa",
+          "results": 18
+        },
+        {
+          "id": "2726335",
+          "name": "Pink",
+          "results": 18
+        },
+        {
+          "id": "3504679",
+          "name": "Blanca",
+          "results": 16
+        },
+        {
+          "id": "3014356",
+          "name": "Blue",
+          "results": 16
+        },
+        {
+          "id": "11157705",
+          "name": "Blanco estelar",
+          "results": 16
+        },
+        {
+          "id": "283161",
+          "name": "Azul marino",
+          "results": 15
+        },
+        {
+          "id": "4094035",
+          "name": "Dark gray",
+          "results": 14
+        },
+        {
+          "id": "283164",
+          "name": "Dorado",
+          "results": 14
+        },
+        {
+          "id": "2790166",
+          "name": "White",
+          "results": 14
+        },
+        {
+          "id": "283163",
+          "name": "Rosa chicle",
+          "results": 13
+        },
+        {
+          "id": "9572912",
+          "name": "Roja",
+          "results": 11
+        },
+        {
+          "id": "52000",
+          "name": "Naranja",
+          "results": 11
+        },
+        {
+          "id": "43221",
+          "name": "Shadow black",
+          "results": 11
+        },
+        {
+          "id": "283157",
+          "name": "Verde lima",
+          "results": 11
+        },
+        {
+          "id": "74988",
+          "name": "Negro/Rojo",
+          "results": 10
+        },
+        {
+          "id": "52001",
+          "name": "Beige",
+          "results": 10
+        },
+        {
+          "id": "2790177",
+          "name": "Rose",
+          "results": 10
+        },
+        {
+          "id": "9141749",
+          "name": "Brown leather",
+          "results": 9
+        },
+        {
+          "id": "7139195",
+          "name": "(Product)Red",
+          "results": 9
+        },
+        {
+          "id": "5429021",
+          "name": "Pink gold",
+          "results": 9
+        },
+        {
+          "id": "52033",
+          "name": "Azul oscuro",
+          "results": 9
+        },
+        {
+          "id": "52015",
+          "name": "Verde claro",
+          "results": 9
+        },
+        {
+          "id": "51998",
+          "name": "Bord\u00f3",
+          "results": 9
+        },
+        {
+          "id": "43162",
+          "name": "Mystic black",
+          "results": 9
+        },
+        {
+          "id": "3624805",
+          "name": "Ivory white",
+          "results": 9
+        },
+        {
+          "id": "11291504",
+          "name": "Verde tr\u00e9bol",
+          "results": 9
+        },
+        {
+          "id": "8110721",
+          "name": "Black titanium",
+          "results": 8
+        },
+        {
+          "id": "6531236",
+          "name": "Desert gold",
+          "results": 8
+        },
+        {
+          "id": "52038",
+          "name": "Lila",
+          "results": 8
+        },
+        {
+          "id": "52019",
+          "name": "Verde oscuro",
+          "results": 8
+        },
+        {
+          "id": "4478154",
+          "name": "Moss green",
+          "results": 8
+        },
+        {
+          "id": "43295",
+          "name": "Ivory",
+          "results": 8
+        },
+        {
+          "id": "13234507",
+          "name": "Pink Gold",
+          "results": 8
+        },
+        {
+          "id": "10584588",
+          "name": "Azul marino intenso",
+          "results": 8
+        },
+        {
+          "id": "59623",
+          "name": "Gray",
+          "results": 7
+        },
+        {
+          "id": "4863852",
+          "name": "Flamingo pink",
+          "results": 7
+        },
+        {
+          "id": "4060979",
+          "name": "Rose pink",
+          "results": 7
+        },
+        {
+          "id": "3749416",
+          "name": "Wild green",
+          "results": 7
+        },
+        {
+          "id": "11273985",
+          "name": "Infinite black",
+          "results": 7
+        },
+        {
+          "id": "52029",
+          "name": "Azul claro",
+          "results": 6
+        },
+        {
+          "id": "43070",
+          "name": "Steel blue",
+          "results": 6
+        },
+        {
+          "id": "3849879",
+          "name": "Rose gold",
+          "results": 6
+        },
+        {
+          "id": "3103858",
+          "name": "Orange",
+          "results": 6
+        },
+        {
+          "id": "283154",
+          "name": "Marr\u00f3n claro",
+          "results": 6
+        },
+        {
+          "id": "2715794",
+          "name": "Green",
+          "results": 6
+        },
+        {
+          "id": "2676",
+          "name": "Verde agua",
+          "results": 6
+        },
+        {
+          "id": "13288001",
+          "name": "Blanco estelar/Patr\u00f3n",
+          "results": 6
+        },
+        {
+          "id": "13153501",
+          "name": "Ember black",
+          "results": 6
+        },
+        {
+          "id": "11162517",
+          "name": "Carbono/Negro",
+          "results": 6
+        },
+        {
+          "id": "8275418",
+          "name": "Rosa arena",
+          "results": 5
+        },
+        {
+          "id": "57070",
+          "name": "Transparente",
+          "results": 5
+        },
+        {
+          "id": "52024",
+          "name": "Azul petr\u00f3leo",
+          "results": 5
+        },
+        {
+          "id": "52008",
+          "name": "Crema",
+          "results": 5
+        },
+        {
+          "id": "4606299",
+          "name": "Urban grey",
+          "results": 5
+        },
+        {
+          "id": "4374964",
+          "name": "Pink sand",
+          "results": 5
+        },
+        {
+          "id": "3000990",
+          "name": "Brown",
+          "results": 5
+        },
+        {
+          "id": "283155",
+          "name": "Marr\u00f3n oscuro",
+          "results": 5
+        },
+        {
+          "id": "2249826",
+          "name": "Rojo lava",
+          "results": 5
+        },
+        {
+          "id": "11457010",
+          "name": "Terra rosa",
+          "results": 5
+        },
+        {
+          "id": "11344820",
+          "name": "Powder gray",
+          "results": 5
+        },
+        {
+          "id": "9009855",
+          "name": "Rock black",
+          "results": 4
+        },
+        {
+          "id": "8183",
+          "name": "Azul oc\u00e9ano",
+          "results": 4
+        },
+        {
+          "id": "7272144",
+          "name": "Matcha green",
+          "results": 4
+        },
+        {
+          "id": "59934",
+          "name": "Negro/Gris",
+          "results": 4
+        },
+        {
+          "id": "52047",
+          "name": "Violeta oscuro",
+          "results": 4
+        },
+        {
+          "id": "52042",
+          "name": "Fucsia",
+          "results": 4
+        },
+        {
+          "id": "52003",
+          "name": "Nude",
+          "results": 4
+        },
+        {
+          "id": "493882",
+          "name": "Blanco luna",
+          "results": 4
+        },
+        {
+          "id": "4162882",
+          "name": "Camo green",
+          "results": 4
+        },
+        {
+          "id": "4107991",
+          "name": "Black/Gray",
+          "results": 4
+        },
+        {
+          "id": "3305098",
+          "name": "Violeta claro",
+          "results": 4
+        },
+        {
+          "id": "3173068",
+          "name": "Sapphire",
+          "results": 4
+        },
+        {
+          "id": "3131844",
+          "name": "Azul rey",
+          "results": 4
+        },
+        {
+          "id": "283150",
+          "name": "Naranja claro",
+          "results": 4
+        },
+        {
+          "id": "283149",
+          "name": "Coral",
+          "results": 4
+        },
+        {
+          "id": "2324",
+          "name": "Grafito",
+          "results": 4
+        },
+        {
+          "id": "13288003",
+          "name": "Azul medianoche/Patr\u00f3n",
+          "results": 4
+        },
+        {
+          "id": "13287999",
+          "name": "Blanca/Patr\u00f3n",
+          "results": 4
+        },
+        {
+          "id": "12891695",
+          "name": "Moonlight grey",
+          "results": 4
+        },
+        {
+          "id": "12891691",
+          "name": "Thunder black",
+          "results": 4
+        },
+        {
+          "id": "12630282",
+          "name": "Espacio negro",
+          "results": 4
+        },
+        {
+          "id": "11192903",
+          "name": "Verde Militar",
+          "results": 4
+        },
+        {
+          "id": "8926505",
+          "name": "Vermillion \ufefforange",
+          "results": 3
+        },
+        {
+          "id": "7989824",
+          "name": "Shadow gray",
+          "results": 3
+        },
+        {
+          "id": "7675610",
+          "name": "Amarilla",
+          "results": 3
+        },
+        {
+          "id": "6452425",
+          "name": "Camo blue",
+          "results": 3
+        },
+        {
+          "id": "59649",
+          "name": "Negro/Amarillo",
+          "results": 3
+        },
+        {
+          "id": "52022",
+          "name": "Agua",
+          "results": 3
+        },
+        {
+          "id": "52012",
+          "name": "Dorado oscuro",
+          "results": 3
+        },
+        {
+          "id": "43367",
+          "name": "Onyx black",
+          "results": 3
+        },
+        {
+          "id": "3729235",
+          "name": "Forest green",
+          "results": 3
+        },
+        {
+          "id": "3259551",
+          "name": "Celeste claro",
+          "results": 3
+        },
+        {
+          "id": "13788688",
+          "name": "Racetrack grey",
+          "results": 3
+        },
+        {
+          "id": "13578661",
+          "name": "Rosebud pink",
+          "results": 3
+        },
+        {
+          "id": "13153506",
+          "name": "Astro black/Gold",
+          "results": 3
+        },
+        {
+          "id": "11255465",
+          "name": "Polar night black",
+          "results": 3
+        },
+        {
+          "id": "10573651",
+          "name": "Plata",
+          "results": 3
+        },
+        {
+          "id": "9292096",
+          "name": "Marl white",
+          "results": 2
+        },
+        {
+          "id": "8075989",
+          "name": "Eclipse black",
+          "results": 2
+        },
+        {
+          "id": "6522608",
+          "name": "Cinnabar red",
+          "results": 2
+        },
+        {
+          "id": "59650",
+          "name": "Negro/Rosa",
+          "results": 2
+        },
+        {
+          "id": "59628",
+          "name": "Gold",
+          "results": 2
+        },
+        {
+          "id": "59406",
+          "name": "Blanco/Verde",
+          "results": 2
+        },
+        {
+          "id": "52031",
+          "name": "Azul acero",
+          "results": 2
+        },
+        {
+          "id": "4766395",
+          "name": "Charcoal black",
+          "results": 2
+        },
+        {
+          "id": "3702112",
+          "name": "Army green",
+          "results": 2
+        },
+        {
+          "id": "3241820",
+          "name": "Orchid",
+          "results": 2
+        },
+        {
+          "id": "3193777",
+          "name": "Cuero",
+          "results": 2
+        },
+        {
+          "id": "3158150",
+          "name": "Scarlet",
+          "results": 2
+        },
+        {
+          "id": "3053508",
+          "name": "Moss",
+          "results": 2
+        },
+        {
+          "id": "2996705",
+          "name": "Coral pink",
+          "results": 2
+        },
+        {
+          "id": "2993780",
+          "name": "Grey",
+          "results": 2
+        },
+        {
+          "id": "220133",
+          "name": "Cuero marr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "15360235",
+          "name": "Blanca/Patr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "15360234",
+          "name": "(Product)Red/Patr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "15360233",
+          "name": "Azul medianoche/Patr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "15360231",
+          "name": "Blanco estelar/Patr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "13578660",
+          "name": "Autumn brown",
+          "results": 2
+        },
+        {
+          "id": "11162514",
+          "name": "Platino puro/Negro",
+          "results": 2
+        },
+        {
+          "id": "10940869",
+          "name": "Lichen camo",
+          "results": 2
+        },
+        {
+          "id": "10940865",
+          "name": "Graphite camo",
+          "results": 2
+        },
+        {
+          "id": "108700",
+          "name": "Negro/Marr\u00f3n",
+          "results": 2
+        },
+        {
+          "id": "10867010",
+          "name": "Desert grey",
+          "results": 2
+        },
+        {
+          "id": "10215942",
+          "name": "Sandstone grey",
+          "results": 2
+        },
+        {
+          "id": "98596",
+          "name": "Verde/Rosa",
+          "results": 1
+        },
+        {
+          "id": "9572311",
+          "name": "Pink clay",
+          "results": 1
+        },
+        {
+          "id": "94488",
+          "name": "Rojo/Azul",
+          "results": 1
+        },
+        {
+          "id": "94468",
+          "name": "Verde/Negro",
+          "results": 1
+        },
+        {
+          "id": "9132981",
+          "name": "Lunar White",
+          "results": 1
+        },
+        {
+          "id": "8987967",
+          "name": "Agate black",
+          "results": 1
+        },
+        {
+          "id": "8980865",
+          "name": "Acero inox",
+          "results": 1
+        },
+        {
+          "id": "8977",
+          "name": "Night black",
+          "results": 1
+        },
+        {
+          "id": "81742",
+          "name": "Azul/Blanco",
+          "results": 1
+        },
+        {
+          "id": "7688585",
+          "name": "Midnight Black",
+          "results": 1
+        },
+        {
+          "id": "7607746",
+          "name": "Silicona",
+          "results": 1
+        },
+        {
+          "id": "7289835",
+          "name": "White/Sand",
+          "results": 1
+        },
+        {
+          "id": "7167848",
+          "name": "NO",
+          "results": 1
+        },
+        {
+          "id": "6892413",
+          "name": "T",
+          "results": 1
+        },
+        {
+          "id": "6854361",
+          "name": "Black/Red",
+          "results": 1
+        },
+        {
+          "id": "6600086",
+          "name": "Moonlight white",
+          "results": 1
+        },
+        {
+          "id": "59786",
+          "name": "Negro/Verde",
+          "results": 1
+        },
+        {
+          "id": "5814267",
+          "name": "Vermillion orange",
+          "results": 1
+        },
+        {
+          "id": "5760136",
+          "name": "Camuflado azul",
+          "results": 1
+        },
+        {
+          "id": "5431312",
+          "name": "Granite blue",
+          "results": 1
+        },
+        {
+          "id": "52036",
+          "name": "Lavanda",
+          "results": 1
+        },
+        {
+          "id": "4714566",
+          "name": "White sand",
+          "results": 1
+        },
+        {
+          "id": "4573266",
+          "name": "Rojo brillante",
+          "results": 1
+        },
+        {
+          "id": "4567028",
+          "name": "Negro cuero",
+          "results": 1
+        },
+        {
+          "id": "4512799",
+          "name": "Negro camuflado",
+          "results": 1
+        },
+        {
+          "id": "43469",
+          "name": "Jet black",
+          "results": 1
+        },
+        {
+          "id": "43390",
+          "name": "Stone",
+          "results": 1
+        },
+        {
+          "id": "43360",
+          "name": "Bordeaux",
+          "results": 1
+        },
+        {
+          "id": "43359",
+          "name": "Red",
+          "results": 1
+        },
+        {
+          "id": "4313477",
+          "name": "Negro 01",
+          "results": 1
+        },
+        {
+          "id": "43072",
+          "name": "Abyss blue",
+          "results": 1
+        },
+        {
+          "id": "4304990",
+          "name": "Light sand",
+          "results": 1
+        },
+        {
+          "id": "43040",
+          "name": "Menta",
+          "results": 1
+        },
+        {
+          "id": "4227627",
+          "name": "Mint blue",
+          "results": 1
+        },
+        {
+          "id": "4216459",
+          "name": "Lava grey",
+          "results": 1
+        },
+        {
+          "id": "416144",
+          "name": "Blue mist",
+          "results": 1
+        },
+        {
+          "id": "4130128",
+          "name": "Petal pink",
+          "results": 1
+        },
+        {
+          "id": "3991572",
+          "name": "Verde fl\u00fao",
+          "results": 1
+        },
+        {
+          "id": "3940036",
+          "name": "Slate grey",
+          "results": 1
+        },
+        {
+          "id": "3902053",
+          "name": "Flame red",
+          "results": 1
+        },
+        {
+          "id": "37643",
+          "name": "Matte black",
+          "results": 1
+        },
+        {
+          "id": "3748413",
+          "name": "Tundra",
+          "results": 1
+        },
+        {
+          "id": "3574995",
+          "name": "Magma red",
+          "results": 1
+        },
+        {
+          "id": "3296485",
+          "name": "Black/White",
+          "results": 1
+        },
+        {
+          "id": "3275573",
+          "name": "Starlight",
+          "results": 1
+        },
+        {
+          "id": "3241814",
+          "name": "Petal",
+          "results": 1
+        },
+        {
+          "id": "3161837",
+          "name": "Negro/Azul/Rosa",
+          "results": 1
+        },
+        {
+          "id": "3108181",
+          "name": "Black/Blue",
+          "results": 1
+        },
+        {
+          "id": "3069595",
+          "name": "Titanium",
+          "results": 1
+        },
+        {
+          "id": "3037402",
+          "name": "Negro/Grafito",
+          "results": 1
+        },
+        {
+          "id": "3002109",
+          "name": "Midnight",
+          "results": 1
+        },
+        {
+          "id": "2991927",
+          "name": "Durazno",
+          "results": 1
+        },
+        {
+          "id": "283158",
+          "name": "Verde musgo",
+          "results": 1
+        },
+        {
+          "id": "283153",
+          "name": "Suela",
+          "results": 1
+        },
+        {
+          "id": "283148",
+          "name": "Coral claro",
+          "results": 1
+        },
+        {
+          "id": "2820606",
+          "name": "44",
+          "results": 1
+        },
+        {
+          "id": "2820602",
+          "name": "40",
+          "results": 1
+        },
+        {
+          "id": "2678047",
+          "name": "Metal",
+          "results": 1
+        },
+        {
+          "id": "234543",
+          "name": "Rosa oro",
+          "results": 1
+        },
+        {
+          "id": "2207049",
+          "name": "Navy",
+          "results": 1
+        },
+        {
+          "id": "162167",
+          "name": "Gris titanio",
+          "results": 1
+        },
+        {
+          "id": "15332052",
+          "name": "Azul medianoche/Patr\u00f3n",
+          "results": 1
+        },
+        {
+          "id": "14961646",
+          "name": "Negro y azul",
+          "results": 1
+        },
+        {
+          "id": "146920",
+          "name": "Negro/Rojo/Azul",
+          "results": 1
+        },
+        {
+          "id": "13788686",
+          "name": "Superspeed black",
+          "results": 1
+        },
+        {
+          "id": "13289313",
+          "name": "Negro/Gris",
+          "results": 1
+        },
+        {
+          "id": "13288934",
+          "name": "Azul medianoche/Oceano",
+          "results": 1
+        },
+        {
+          "id": "13288002",
+          "name": "(Product)Red/Patr\u00f3n",
+          "results": 1
+        },
+        {
+          "id": "12235886",
+          "name": "Misty white",
+          "results": 1
+        },
+        {
+          "id": "11445569",
+          "name": "Gold Rose",
+          "results": 1
+        },
+        {
+          "id": "11344839",
+          "name": "Shale gray",
+          "results": 1
+        },
+        {
+          "id": "11344833",
+          "name": "Whitestone",
+          "results": 1
+        },
+        {
+          "id": "11344815",
+          "name": "Dust rose",
+          "results": 1
+        },
+        {
+          "id": "108070",
+          "name": "Cacao",
+          "results": 1
+        },
+        {
+          "id": "10785757",
+          "name": "Rosada",
+          "results": 1
+        },
+        {
+          "id": "10582919",
+          "name": "Plata",
+          "results": 1
+        },
+        {
+          "id": "10573649",
+          "name": "Oro",
+          "results": 1
+        },
+        {
+          "id": "103509",
+          "name": "Salm\u00f3n",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "WRISTBAND_MATERIAL",
+      "name": "Material de la malla",
+      "type": "STRING",
+      "values": [
+        {
+          "id": "2466987",
+          "name": "Silicona",
+          "results": 2169
+        },
+        {
+          "id": "227104",
+          "name": "Fluoroelast\u00f3mero",
+          "results": 472
+        },
+        {
+          "id": "4343494",
+          "name": "TPU",
+          "results": 167
+        },
+        {
+          "id": "482783",
+          "name": "Cuero",
+          "results": 99
+        },
+        {
+          "id": "2748302",
+          "name": "Pl\u00e1stico",
+          "results": 92
+        },
+        {
+          "id": "2395698",
+          "name": "Goma",
+          "results": 74
+        },
+        {
+          "id": "4086949",
+          "name": "Acero inoxidable",
+          "results": 62
+        },
+        {
+          "id": "9777789",
+          "name": "Elast\u00f3mero termopl\u00e1stico/Aleaci\u00f3n de aluminio",
+          "results": 20
+        },
+        {
+          "id": "9138234",
+          "name": "TPU/Aleaci\u00f3n de aluminio",
+          "results": 19
+        },
+        {
+          "id": "7980354",
+          "name": "Nailon",
+          "results": 15
+        },
+        {
+          "id": "112648",
+          "name": "Metal",
+          "results": 15
+        },
+        {
+          "id": "415878",
+          "name": "Resina",
+          "results": 13
+        },
+        {
+          "id": "4837600",
+          "name": "Acero",
+          "results": 11
+        },
+        {
+          "id": "9228003",
+          "name": "Goma de silicona",
+          "results": 10
+        },
+        {
+          "id": "9526325",
+          "name": "PUR",
+          "results": 9
+        },
+        {
+          "id": "226758",
+          "name": "Nailon trenzado",
+          "results": 9
+        },
+        {
+          "id": "13352357",
+          "name": "Acero SiLicone",
+          "results": 8
+        },
+        {
+          "id": "9388205",
+          "name": "Elast\u00f3mero/Aluminio anodizado",
+          "results": 4
+        },
+        {
+          "id": "9138223",
+          "name": "Goma fluorada",
+          "results": 3
+        },
+        {
+          "id": "5937342",
+          "name": "Acero inoxidable/Silicona",
+          "results": 3
+        },
+        {
+          "id": "2832463",
+          "name": "Titanio",
+          "results": 3
+        },
+        {
+          "id": "2511571",
+          "name": "ABS",
+          "results": 3
+        },
+        {
+          "id": "111551",
+          "name": "Poliuretano",
+          "results": 3
+        },
+        {
+          "id": "771114",
+          "name": "Acero quir\u00fargico",
+          "results": 2
+        },
+        {
+          "id": "6332329",
+          "name": "Metal/Pl\u00e1stico",
+          "results": 2
+        },
+        {
+          "id": "4840153",
+          "name": "PU",
+          "results": 2
+        },
+        {
+          "id": "95074",
+          "name": "Aleaci\u00f3n",
+          "results": 1
+        },
+        {
+          "id": "9019203",
+          "name": "Silicona/PC",
+          "results": 1
+        },
+        {
+          "id": "6623625",
+          "name": "Cuero/Silicona",
+          "results": 1
+        },
+        {
+          "id": "570721",
+          "name": "Cuero sint\u00e9tico",
+          "results": 1
+        },
+        {
+          "id": "4606543",
+          "name": "Textil",
+          "results": 1
+        },
+        {
+          "id": "13332321",
+          "name": "FLUOROELAST\u00d3MERO/SILICONA",
+          "results": 1
+        },
+        {
+          "id": "13291580",
+          "name": "Nailon trenzado",
+          "results": 1
+        },
+        {
+          "id": "11663733",
+          "name": "Silicona/Acero inoxidable",
+          "results": 1
+        },
+        {
+          "id": "11314669",
+          "name": "Elast\u00f3mero termopl\u00e1stico",
+          "results": 1
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "name": "Producto",
+      "type": "text",
+      "values": [
+        {
+          "id": "MLA18362364",
+          "name": "Samsung Galaxy Watch4 (Bluetooth) SM-R860 1.2 \" 40 mm",
+          "results": 107
+        },
+        {
+          "id": "MLA18362368",
+          "name": "Samsung Galaxy Watch4 (Bluetooth) SM-R870 1.4 \" 44 mm",
+          "results": 90
+        },
+        {
+          "id": "MLA18362375",
+          "name": "Samsung Galaxy Watch4 Classic (Bluetooth) SM-R890 1.4 \" 46 mm",
+          "results": 71
+        },
+        {
+          "id": "MLA18577713",
+          "name": "Apple Series 7 Watch (GPS) A2474 45 mm",
+          "results": 67
+        },
+        {
+          "id": "MLA19642415",
+          "name": "Samsung Galaxy Watch5 Small (Bluetooth) SM-R900 1.2 \" 40 mm",
+          "results": 67
+        },
+        {
+          "id": "MLA18726728",
+          "name": "Xiaomi Redmi Watch 2 Lite 1.55 \"",
+          "results": 62
+        },
+        {
+          "id": "MLA18065137",
+          "name": "Colmi P8 Plus 1.69 \"",
+          "results": 61
+        },
+        {
+          "id": "MLA19604552",
+          "name": "Samsung Galaxy Watch5 (Bluetooth) SM-R910N 1.4 \" 44 mm",
+          "results": 55
+        },
+        {
+          "id": "MLA18577719",
+          "name": "Apple Series 7 Watch (GPS) A2473 41 mm",
+          "results": 53
+        },
+        {
+          "id": "MLA16999362",
+          "name": "Huami Amazfit Fashion GTS 2 A1969 1.65 \"",
+          "results": 49
+        },
+        {
+          "id": "MLA19915040",
+          "name": "Smart Bracelet Smart 1.3 \" 35 mm",
+          "results": 49
+        },
+        {
+          "id": "MLA18640764",
+          "name": "Huami Amazfit GTS 3 1.75 \"",
+          "results": 47
+        },
+        {
+          "id": "MLA14812842",
+          "name": "Noga Band NG-SB01",
+          "results": 45
+        },
+        {
+          "id": "MLA16368722",
+          "name": "Smart Bracelet D20 D20 1.3 \"",
+          "results": 45
+        },
+        {
+          "id": "MLA19174174",
+          "name": "Xiaomi Mi Smart Band 7 1.62 \"",
+          "results": 39
+        },
+        {
+          "id": "MLA17796173",
+          "name": "Xiaomi Mi Smart Band 6 XMSH15HM 1.56 \"",
+          "results": 35
+        },
+        {
+          "id": "MLA19111233",
+          "name": "Motorola Moto Watch 100 1.3 \" 42 mm",
+          "results": 34
+        },
+        {
+          "id": "MLA17345316",
+          "name": "Huami Amazfit Fashion GTR 2 A1952 1.39 \" 46.4 mm",
+          "results": 32
+        },
+        {
+          "id": "MLA15963017",
+          "name": "Xiaomi Mi Smart Band 5 XMSH10HM 1.1 \"",
+          "results": 31
+        },
+        {
+          "id": "MLA15983554",
+          "name": "Colmi P8 1.4 \"",
+          "results": 31
+        },
+        {
+          "id": "MLA16219138",
+          "name": "Samsung Galaxy Fit2 (Bluetooth) SM-R220 1.1 \" 46.6 mm",
+          "results": 31
+        },
+        {
+          "id": "MLA18533916",
+          "name": "Xiaomi Imilab W12 1.32 \" 46 mm",
+          "results": 31
+        },
+        {
+          "id": "MLA19599997",
+          "name": "Huami Amazfit T-Rex 2 1.39 \"",
+          "results": 31
+        },
+        {
+          "id": "MLA19781750",
+          "name": "Kieslect K-Series K11 139 \" 45 mm",
+          "results": 31
+        },
+        {
+          "id": "MLA18554977",
+          "name": "Noga NG-SW05 1.3 \"",
+          "results": 30
+        },
+        {
+          "id": "MLA18569973",
+          "name": "Huami Amazfit GTR 3 Pro A2040 1.45 \" 46 mm",
+          "results": 30
+        },
+        {
+          "id": "MLA16930325",
+          "name": "Huami Amazfit Fashion GTS 2 Mini A2018 1.55 \"",
+          "results": 27
+        },
+        {
+          "id": "MLA17944053",
+          "name": "Huawei Band 6 FRA-B19 1.47 \"",
+          "results": 27
+        },
+        {
+          "id": "MLA18628976",
+          "name": "DT NO.1 DT100 1.75 \" 44 mm",
+          "results": 27
+        },
+        {
+          "id": "MLA17337299",
+          "name": "Nictom Smartwatch NT03",
+          "results": 26
+        },
+        {
+          "id": "MLA17709109",
+          "name": "Huami Amazfit Fashion GTS 2e A2021 1.65 \"",
+          "results": 26
+        },
+        {
+          "id": "MLA17232986",
+          "name": "Huami Amazfit Bands Band 5 A2005 1.1 \"",
+          "results": 23
+        },
+        {
+          "id": "MLA19553792",
+          "name": "Kieslect K10 1.32 \" 45.7 mm",
+          "results": 23
+        },
+        {
+          "id": "MLA19576745",
+          "name": "TiendaShopealo JD Deportiva Andina ZL02D 1.28 \" 45.5 mm",
+          "results": 23
+        },
+        {
+          "id": "MLA15961141",
+          "name": "Haylou Solar LS05 1.28 \" 45.3 mm",
+          "results": 21
+        },
+        {
+          "id": "MLA16140519",
+          "name": "Microwear W26 1.75 \"",
+          "results": 21
+        },
+        {
+          "id": "MLA16808009",
+          "name": "Microwear Series 6 W26+ Plus 1.75 \" 40 mm",
+          "results": 21
+        },
+        {
+          "id": "MLA16189988",
+          "name": "Garmin Forerunner 45 1.04 \" 42 mm",
+          "results": 19
+        },
+        {
+          "id": "MLA19460305",
+          "name": "Huami Amazfit Fashion GTR 3 1.39 \"",
+          "results": 19
+        },
+        {
+          "id": "MLA19600454",
+          "name": "Haylou LS09B GST 1.69 \"",
+          "results": 19
+        },
+        {
+          "id": "MLA19681379",
+          "name": "Haxly QUO Plus HX-SWQUOP-BK 1.69 \"",
+          "results": 19
+        },
+        {
+          "id": "MLA16522194",
+          "name": "Huami Amazfit Sport Neo A2001 1.2 \"",
+          "results": 17
+        },
+        {
+          "id": "MLA16885051",
+          "name": "Honor Band 6 ARG-B39 1.47 \"",
+          "results": 17
+        },
+        {
+          "id": "MLA19146617",
+          "name": "Xiaomi Redmi Smart Band Pro 1.47 \"",
+          "results": 17
+        },
+        {
+          "id": "MLA19561732",
+          "name": "Huawei Band 7 1.47 \"",
+          "results": 17
+        },
+        {
+          "id": "MLA19679747",
+          "name": "Apple Series 8 Watch (GPS) 41 mm",
+          "results": 17
+        },
+        {
+          "id": "MLA19810450",
+          "name": "Huami Amazfit GTS 4 Mini 1.65 \"",
+          "results": 17
+        },
+        {
+          "id": "MLA19582559",
+          "name": "Samsung Galaxy Watch5 Pro (Bluetooth) SM-R920 1.4 \" 45 mm",
+          "results": 16
+        },
+        {
+          "id": "MLA19569445",
+          "name": "Haylou LS10 RT2 1.32 \"",
+          "results": 15
+        },
+        {
+          "id": "MLA16004822",
+          "name": "Haylou Smart Watch 2 LS02 1.28 \"",
+          "results": 13
+        }
+      ]
+    }
+  ]
+}

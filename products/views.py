@@ -5,6 +5,15 @@ from meli.api.rest_client_api import RestClientApi
 
 from utils.wrappers import MeliWrapper
 
+from utils.constants import (
+    SEARCH_URL,
+    SEARCH_CATEGORY,
+    LIMIT_PRICE_DESC,
+    SORT_BY_PRICE_DESC,
+    LIMIT_SOLD_QUANTITY,
+    SORT_BY_SOLD_QUANTITY_ASC,
+)
+
 
 class MostExpensiveProducts(TemplateView):
     """
@@ -22,14 +31,13 @@ class MostExpensiveProducts(TemplateView):
             access_token = config("TOKEN")
             rest_client_api = RestClientApi(api_client)
             query_string = {
-                "category": "MLA352679",
-                "sort": "price_desc",
-                "limit": 21,
+                "category": SEARCH_CATEGORY,
+                "sort": SORT_BY_PRICE_DESC,
+                "limit": LIMIT_PRICE_DESC,
             }
-            search_url = "/sites/MLA/search?{}"
 
             meli_wrapper = MeliWrapper(
-                rest_client_api, query_string, access_token, search_url
+                rest_client_api, query_string, access_token, SEARCH_URL
             )
             response = meli_wrapper.get_result_sorted_by_price()
 
@@ -53,14 +61,13 @@ class BestSellersUserNickNames(TemplateView):
             access_token = config("TOKEN")
             rest_client_api = RestClientApi(api_client)
             query_string = {
-                "category": "MLA352679",
-                "sort": "sold_quantity_asc",
-                "limit": 6,
+                "category": SEARCH_CATEGORY,
+                "sort": SORT_BY_SOLD_QUANTITY_ASC,
+                "limit": LIMIT_SOLD_QUANTITY,
             }
-            search_url = "/sites/MLA/search?{}"
 
             meli_wrapper = MeliWrapper(
-                rest_client_api, query_string, access_token, search_url
+                rest_client_api, query_string, access_token, SEARCH_URL
             )
             response = meli_wrapper.get_transactions_completed()
 

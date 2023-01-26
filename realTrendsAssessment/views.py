@@ -1,4 +1,5 @@
-from django.views.generic import TemplateView, GenericViewError
+from django.views.generic import TemplateView
+from http import HTTPStatus
 
 
 class HomeView(TemplateView):
@@ -6,7 +7,7 @@ class HomeView(TemplateView):
 
 
 class ForbiddenHandler(TemplateView):
-    error_code = 403
+    error_code = HTTPStatus.FORBIDDEN
     template_name = "403.html"
 
     def dispatch(self, request, *args, **kwargs):
@@ -26,7 +27,7 @@ class ForbiddenHandler(TemplateView):
 
 
 class ErrorHandler(TemplateView):
-    error_code = 404
+    error_code = HTTPStatus.NOT_FOUND
     template_name = "404.html"
 
     def dispatch(self, request, *args, **kwargs):
@@ -46,7 +47,7 @@ class ErrorHandler(TemplateView):
 
 
 class InternalErrorView(TemplateView):
-    error_code = 500
+    error_code = HTTPStatus.INTERNAL_SERVER_ERROR
     template_name = "500.html"
 
     def dispatch(self, request, *args, **kwargs):

@@ -20,10 +20,10 @@ clean:
 	rm -rf .pytest_cache
 
 lint:
-	flake8 products realTrendsAssessment tests
+	flake8 products realTrendsAssessment tests utils
 
 format:
-	black products realTrendsAssessment tests
+	black products realTrendsAssessment tests utils
 
 testall:
 	tox
