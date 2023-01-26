@@ -9,9 +9,7 @@ from utils.wrappers import MeliWrapper
 from meli import OAuth20Api, ApiClient
 
 
-def oauth_login(request) -> Union[HttpResponsePermanentRedirect, HttpResponseRedirect]:
-    """GET auth/
-    """
+def oauth_login(request):
     with ApiClient() as api_client:
         auth_api = OAuth20Api(api_client)
         meli_wrapper = MeliWrapper(
@@ -25,9 +23,7 @@ def oauth_login(request) -> Union[HttpResponsePermanentRedirect, HttpResponseRed
         return response
 
 
-def oauth_redirect(request) -> HttpResponse:
-    """GET auth/redirect/
-    """
+def oauth_redirect(request):
     with ApiClient() as api_client:
         code = request.GET.get('code')
         print(code)

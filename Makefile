@@ -5,7 +5,7 @@ help:
 	@echo "lint - check style with flake8"
 	@echo "format - format with flake8"
 	@echo "test - run tests quickly with the default Python"
-	@echo "testall - run tests on every Python version with tox"
+	@echo "see-coverage - run python http.server in htmlcov"
 	@echo "run - runserver with settings in .env file"
 	@echo "run-dev - run in development mode [local]"
 	@echo "run-dev - run in development mode [test]"
@@ -25,8 +25,11 @@ lint:
 format:
 	black products realTrendsAssessment tests utils auth
 
-testall:
+test:
 	tox
+
+see-coverage:
+	python -m http.server --directory=htmlcov/
 
 run:
 	 python manage.py runserver --settings=realTrendsAssessment.settings.development
